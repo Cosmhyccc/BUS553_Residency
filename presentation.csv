@@ -1,0 +1,655 @@
+product_key,country,current_price_usd,siamese_fair_price_usd,lightgbm_fair_price_usd,combined_fair_price_usd,siamese_gap_usd,lightgbm_gap_usd,combined_gap_usd,siamese_action,lightgbm_action,combined_action,siamese_confidence,lightgbm_confidence,combined_confidence,model_action_agreement
+sabrina 3 'warning label'||footwear||basketball shoes||phantom/ivory/rush coral/black||men|women,FI,141.6891,,223.5674,223.5674,,-81.8783,-81.8783,,raise_price,raise_price,,0.2941,0.2941,na
+jordan flight||apparel||women's down jacket||ghost||women,FI,403.2891,373.3334,,373.3334,29.9557,,29.9557,lower_price,,lower_price,0.71,,0.71,na
+ナイキ dri-fit クラブ||apparel||ストラクチャード スウッシュ キャップ||ワークブルー/ホワイト||men|women,JP,24.321,,62.5825,62.5825,,-38.2615,-38.2615,,raise_price,raise_price,,0.4969,0.4969,na
+ナイキ dri-fit adv クラブ||apparel||ストラクチャード スウッシュ キャップ||ライトマゼンタ/ホワイト||men|women,JP,28.006,,62.5825,62.5825,,-34.5765,-34.5765,,raise_price,raise_price,,0.5398,0.5398,na
+nike killshot 2||footwear||women's shoes||black/gum yellow/sail||men|women,SI,103.5391,,132.0049,132.0049,,-28.4658,-28.4658,,raise_price,raise_price,,0.6464,0.6464,na
+ナイキ dri-fit adv ライズ||apparel||ストラクチャード スウッシュ フレックス キャップ||ブラック/アンスラサイト/ホワイト||men|women,JP,28.743,,58.1464,58.1464,,-29.4034,-29.4034,,raise_price,raise_price,,0.5993,0.5993,na
+ナイキ dri-fit クラブ||apparel||アンストラクチャード フェザーライト キャップ||ホワイト/ブラック||men|women,JP,28.006,,57.0468,57.0468,,-29.0408,-29.0408,,raise_price,raise_price,,0.6035,0.6035,na
+nike killshot 2||footwear||women's shoes||black/gum yellow/sail||men|women,FI,114.4391,,132.5145,132.5145,,-18.0754,-18.0754,,raise_price,raise_price,,0.8341,0.8341,na
+jayson tatum celtics icon edition 2020||apparel||men's nike nba authentic jersey||clover||men,US,210.0,,170.8886,170.8886,,39.1114,39.1114,,lower_price,lower_price,,0.3764,0.3764,na
+jordan brooklyn||apparel||women's therma-fit varsity jacket||team red/pale ivory/black||women,FI,190.7391,171.0932,,171.0932,19.6459,,19.6459,lower_price,,lower_price,0.7406,,0.7406,na
+jordan flight club pro||apparel||unstructured flat bill hat||black/black||men|women,US,40.0,,77.6974,77.6974,,-37.6974,-37.6974,,raise_price,raise_price,,0.3855,0.3855,na
+nike cortez leather||footwear||women's shoes||white/light bone/coconut milk/bronze||women,US,125.0,114.6493,96.0335,105.3414,10.3507,28.9665,19.6586,lower_price,lower_price,lower_price,0.9754,0.4938,0.7346,true
+日本 リミテッド ロード||apparel||メンズ ナイキ バスケットボールジャージー||チリレッド/ブラック||men,JP,109.813,,81.2569,81.2569,,28.5561,28.5561,,lower_price,lower_price,,0.501,0.501,na
+ジョーダン 1 レトロ mcs se||footwear||メンズ ベースボールスパイク||スターフィッシュ/ホワイト/ブラック||men,JP,176.88,,148.2611,148.2611,,28.6189,28.6189,,lower_price,lower_price,,0.4999,0.4999,na
+nike sportswear tech fleece||apparel||big kids' joggers with reflective accents||black/black/black||boys,US,100.0,,71.3583,71.3583,,28.6417,28.6417,,lower_price,lower_price,,0.4995,0.4995,na
+nike sportswear||apparel||women's tight cropped long-sleeve t-shirt||soft pearl||women,FI,54.4891,,83.1133,83.1133,,-28.6242,-28.6242,,raise_price,raise_price,,0.4998,0.4998,na
+エア ジョーダン||apparel||ウィメンズ ニット カーディガン||アーキオブラウン||women,JP,147.4,,118.8558,118.8558,,28.5442,28.5442,,lower_price,lower_price,,0.5012,0.5012,na
+philadelphia phillies authentic collection||apparel||men’s nike dri-fit mlb sleeveless pullover hoodie||red||men,US,65.0,,93.7103,93.7103,,-28.7103,-28.7103,,raise_price,raise_price,,0.4983,0.4983,na
+fff (men's team) 2024/25 match home||apparel||men's nike dri-fit adv football authentic shirt||bright blue/university red/white||men,SI,163.4891,,134.7616,134.7616,,28.7275,28.7275,,lower_price,lower_price,,0.498,0.498,na
+nike court vision low||footwear||men's shoes||sail/cream ii/brilliant blue||men,FI,87.1891,,115.7731,115.7731,,-28.584,-28.584,,raise_price,raise_price,,0.5005,0.5005,na
+sophia wilson portland thorns fc 2025 stadium away||apparel||men's nike dri-fit nwsl replica jersey||black||men,US,130.0,,101.3474,101.3474,,28.6526,28.6526,,lower_price,lower_price,,0.4993,0.4993,na
+ナイキ スポーツウェア チル テリー||apparel||ウィメンズ ショートスリーブ フレンチテリー プリンテッド トップ||ブラック/ブラック||women,JP,62.645,,91.355,91.355,,-28.71,-28.71,,raise_price,raise_price,,0.4983,0.4983,na
+ナイキ ピーク||apparel||フューチュラ ビーニー||ボルト/ホワイト||men|women,JP,27.269,,55.9501,55.9501,,-28.6811,-28.6811,,raise_price,raise_price,,0.4988,0.4988,na
+ナイキ イニシエーター||footwear||メンズシューズ||ホワイト/ペールアイボリー/オフノワール/バイオテック||men,JP,64.3133,,92.7435,92.7435,,-28.4302,-28.4302,,raise_price,raise_price,,0.5032,0.5032,na
+liverpool f.c. 2024/25 stadium away||apparel||older kids' nike dri-fit football replica shirt||black/anthracite/washed teal/sail||boys|girls,FI,95.9091,,67.4563,67.4563,,28.4528,28.4528,,lower_price,lower_price,,0.5028,0.5028,na
+ナイキ ペガサス 41||footwear||メンズ ロード ランニングシューズ||ホワイト/ボルトアイス/ベアリーボルト/ブラック||men,JP,110.55,,139.3059,139.3059,,-28.7559,-28.7559,,raise_price,raise_price,,0.4975,0.4975,na
+nike||apparel||baby futura curved brim cap||pink||boys,US,18.0,,46.6809,46.6809,,-28.6809,-28.6809,,raise_price,raise_price,,0.4988,0.4988,na
+michigan state legacy arch rise||apparel||men's nike dri-fit college trucker adjustable hat||green||men,US,30.0,,58.6924,58.6924,,-28.6924,-28.6924,,raise_price,raise_price,,0.4986,0.4986,na
+jordan dri-fit jumpman||equipment||head tie||white/black||men|women,US,18.0,,46.7905,46.7905,,-28.7905,-28.7905,,raise_price,raise_price,,0.4969,0.4969,na
+nikecourt ライト 4||footwear||メンズ クレーコート テニスシューズ||ブラック/アンスラサイト/ホワイト||men,JP,64.856,,93.4966,93.4966,,-28.6406,-28.6406,,raise_price,raise_price,,0.4995,0.4995,na
+courtland sutton denver broncos||apparel||men's nike nfl game football jersey||orange||men,US,130.0,,158.5947,158.5947,,-28.5947,-28.5947,,raise_price,raise_price,,0.5003,0.5003,na
+nike acg fly||apparel||unstructured cap||photon dust/college grey/black/photon dust||men|women,US,40.0,,68.6691,68.6691,,-28.6691,-28.6691,,raise_price,raise_price,,0.499,0.499,na
+ナイキ フォーム||apparel||ウィメンズ ボーイショートパンツ||ピカンテレッド/ミスティックレッド||women,JP,42.746,,71.5478,71.5478,,-28.8018,-28.8018,,raise_price,raise_price,,0.4967,0.4967,na
+nike slam||apparel||women's dri-fit tennis t-shirt||light thistle||women,SI,38.1391,,66.6311,66.6311,,-28.492,-28.492,,raise_price,raise_price,,0.5021,0.5021,na
+france||apparel||2025/2026 nike club cap||obsidian/bleached coral||men|women,FI,32.6891,,61.4503,61.4503,,-28.7612,-28.7612,,raise_price,raise_price,,0.4974,0.4974,na
+inter milan strike third||apparel||men's nike dri-fit total 90 football anthem jacket||black/thunder blue/safety orange||men,FI,152.5891,,123.926,123.926,,28.6631,28.6631,,lower_price,lower_price,,0.4991,0.4991,na
+baltimore ravens salute to service sideline||apparel||women's nike dri-fit nfl long-sleeve t-shirt||olive||women,US,55.0,,83.543,83.543,,-28.543,-28.543,,raise_price,raise_price,,0.5012,0.5012,na
+cleveland browns salute to service sideline||apparel||women's nike dri-fit nfl long-sleeve t-shirt||olive||women,US,55.0,,83.543,83.543,,-28.543,-28.543,,raise_price,raise_price,,0.5012,0.5012,na
+kansas city chiefs salute to service sideline||apparel||women's nike dri-fit nfl long-sleeve t-shirt||olive||women,US,55.0,,83.543,83.543,,-28.543,-28.543,,raise_price,raise_price,,0.5012,0.5012,na
+barcelona||equipment||2025/2026 nike academy ball||deep royal blue/noble red/amarillo||men|women,FI,32.6891,,61.3694,61.3694,,-28.6803,-28.6803,,raise_price,raise_price,,0.4988,0.4988,na
+chelsea||equipment||2025/2026 nike academy ball||game royal/rush blue/white||men|women,FI,32.6891,,61.3694,61.3694,,-28.6803,-28.6803,,raise_price,raise_price,,0.4988,0.4988,na
+nike academy 'vini jr.'||equipment||football||sunset pulse/old royal/old royal||men|women,FI,32.6891,,61.4327,61.4327,,-28.7436,-28.7436,,raise_price,raise_price,,0.4977,0.4977,na
+ナイキ acg ファサード||footwear||メンズシューズ||バロックブラウン/ブラック/カーキ/バロックブラウン||men|women,JP,125.29,,153.9128,153.9128,,-28.6228,-28.6228,,raise_price,raise_price,,0.4998,0.4998,na
+nike sportswear||apparel||women's woven printed pants||black/black||women,US,75.0,,103.6399,103.6399,,-28.6399,-28.6399,,raise_price,raise_price,,0.4995,0.4995,na
+nike sportswear||apparel||women's jacket||jade horizon||women,FI,65.3891,,94.2427,94.2427,,-28.8536,-28.8536,,raise_price,raise_price,,0.4958,0.4958,na
+nike flex experience run 12||footwear||men's road running shoes||black/anthracite||men,US,75.0,,103.7665,103.7665,,-28.7665,-28.7665,,raise_price,raise_price,,0.4973,0.4973,na
+baltimore ravens sideline team issue||apparel||men's nike dri-fit nfl long-sleeve t-shirt||purple||men,US,45.0,,73.6111,73.6111,,-28.6111,-28.6111,,raise_price,raise_price,,0.5,0.5,na
+air jordan||apparel||women's long-sleeve woven top||dark smoke grey||women,FI,130.7891,,102.4221,102.4221,,28.367,28.367,,lower_price,lower_price,,0.5043,0.5043,na
+jordan||apparel||men's draft trousers||old royal/black/yellow pulse||men,SI,130.7891,,102.1667,102.1667,,28.6224,28.6224,,lower_price,lower_price,,0.4998,0.4998,na
+nike sportswear tech woven||apparel||older kids' (boys') full-zip top||black/black||boys,FI,119.8891,,91.2323,91.2323,,28.6568,28.6568,,lower_price,lower_price,,0.4992,0.4992,na
+nike (m) one||apparel||women's dri-fit high-waisted 20.5cm (approx.) biker shorts with pockets (maternity)||black/white||women,SI,38.1391,,66.9633,66.9633,,-28.8242,-28.8242,,raise_price,raise_price,,0.4963,0.4963,na
+texas longhorns||apparel||men's nike college limited baseball jersey||burnt orange||men,US,135.0,,106.6331,106.6331,,28.3669,28.3669,,lower_price,lower_price,,0.5043,0.5043,na
+jordan||apparel||men's graphic shirt||off noir/infrared 23||men,US,45.0,,73.8648,73.8648,,-28.8648,-28.8648,,raise_price,raise_price,,0.4956,0.4956,na
+nike sportswear||apparel||women's slim retro polo top||picante red/white/sail||women,SI,49.0391,,77.6327,77.6327,,-28.5936,-28.5936,,raise_price,raise_price,,0.5003,0.5003,na
+ナイキ gp チャレンジ 1.5||footwear||メンズ ハードコート テニスシューズ||ホワイト/ピュアプラチナム/ライトクリムゾン||men,JP,156.981,,128.3072,128.3072,,28.6738,28.6738,,lower_price,lower_price,,0.4989,0.4989,na
+minnesota vikings alt legend small logo||apparel||men's nike dri-fit nfl long-sleeve t-shirt||purple||men,US,45.0,,73.8066,73.8066,,-28.8066,-28.8066,,raise_price,raise_price,,0.4966,0.4966,na
+chicago cubs authentic collection||apparel||men’s nike therma mlb full-zip jacket||red||men,US,135.0,,106.3607,106.3607,,28.6393,28.6393,,lower_price,lower_price,,0.4995,0.4995,na
+kobe ix low em||footwear||older kids' basketball shoes||thunder blue/laser orange/daybreak||boys|girls,FI,130.7891,,102.0866,102.0866,,28.7025,28.7025,,lower_price,lower_price,,0.4984,0.4984,na
+nike air max nuaxis||footwear||women's shoes||white/pure platinum/metallic silver/white||women,SI,108.9891,,137.8072,137.8072,,-28.8181,-28.8181,,raise_price,raise_price,,0.4964,0.4964,na
+nike cortez||footwear||women's shoes||ashen slate/sail/gum light brown/football grey||women,SI,108.9891,,137.8072,137.8072,,-28.8181,-28.8181,,raise_price,raise_price,,0.4964,0.4964,na
+ナイキ acg ウルトラフライ トレイル||footwear||トレイル レーシングシューズ||セイル/ホワイト/セーフティオレンジ/ブラック||men|women,JP,241.736,,213.0048,213.0048,,28.7312,28.7312,,lower_price,lower_price,,0.4979,0.4979,na
+ナイキ ペガサス 39||footwear||メンズ ロード ランニングシューズ||ファントム/セイル/ミントフォーム/ブラック||men,JP,110.55,,139.3622,139.3622,,-28.8122,-28.8122,,raise_price,raise_price,,0.4965,0.4965,na
+netherlands||apparel||2025/2026 nike club cap||obsidian/safety orange||men|women,FI,32.6891,,61.5303,61.5303,,-28.8412,-28.8412,,raise_price,raise_price,,0.496,0.496,na
+nike sportswear||apparel||women's slim short-sleeve graphic t-shirt||black||women,FI,32.6891,,61.2767,61.2767,,-28.5876,-28.5876,,raise_price,raise_price,,0.5004,0.5004,na
+jordan brooklyn fleece||apparel||men's graphic shorts||sail/dark grey||men,SI,54.4891,,83.1453,83.1453,,-28.6562,-28.6562,,raise_price,raise_price,,0.4992,0.4992,na
+baylor||apparel||men's nike college football replica jersey||gorge green||men,US,130.0,,101.2054,101.2054,,28.7946,28.7946,,lower_price,lower_price,,0.4968,0.4968,na
+nike||apparel||men's therma-fit fleece joggers||black||men,SI,76.2891,,47.6388,47.6388,,28.6503,28.6503,,lower_price,lower_price,,0.4993,0.4993,na
+nike tech||apparel||men's woven cargo shorts||hydrangeas/black||men,US,115.0,,86.3095,86.3095,,28.6905,28.6905,,lower_price,lower_price,,0.4986,0.4986,na
+nike gym heritage||apparel||men's dri-fit fleece training top||dark team red/heather/pale ivory/dark team red||men,FI,81.7391,,53.1404,53.1404,,28.5987,28.5987,,lower_price,lower_price,,0.5002,0.5002,na
+ナイキ エアロスイフト||apparel||メンズ dri-fit adv ランニングパンツ||ブラック/サミットホワイト||men,JP,115.709,,87.2695,87.2695,,28.4395,28.4395,,lower_price,lower_price,,0.503,0.503,na
+nike||apparel||younger kids' printed hooded jacket||black||boys,FI,87.1891,,58.5159,58.5159,,28.6732,28.6732,,lower_price,lower_price,,0.4989,0.4989,na
+boston celtics statement edition||apparel||men's jordan dri-fit nba swingman jersey||black||men,SI,114.4391,,85.7141,85.7141,,28.725,28.725,,lower_price,lower_price,,0.498,0.498,na
+oregon alt||apparel||men's nike dri-fit college t-shirt||anthracite||men,US,42.0,,70.4961,70.4961,,-28.4961,-28.4961,,raise_price,raise_price,,0.502,0.502,na
+nike sportswear phoenix fleece||apparel||women's mid-rise tracksuit bottoms||silt red/sail||women,FI,59.9391,,88.3446,88.3446,,-28.4055,-28.4055,,raise_price,raise_price,,0.5036,0.5036,na
+ジョーダン dri-fit スポーツ||apparel||メンズ ウーブン ショートパンツ||ブラック/ジムレッド/ブラック||men,JP,35.376,,63.9403,63.9403,,-28.5643,-28.5643,,raise_price,raise_price,,0.5008,0.5008,na
+ジョーダン dri-fit スポーツ||apparel||メンズ ウーブン ショートパンツ||ブラック/ホワイト/ブラック||men,JP,35.376,,63.9403,63.9403,,-28.5643,-28.5643,,raise_price,raise_price,,0.5008,0.5008,na
+ナイキ ティエンポ レジェンド 10 プロ||footwear||ターフ ローカット サッカーシューズ||ブルーエクリプス/ブラック||men|women,JP,109.076,,137.8182,137.8182,,-28.7422,-28.7422,,raise_price,raise_price,,0.4977,0.4977,na
+ナイキ コート ビジョン low||footwear||メンズシューズ||セイル/ガムライトブラウン/ライトアイアンオール/ミッドナイトネイビー||men,JP,58.96,,87.6388,87.6388,,-28.6788,-28.6788,,raise_price,raise_price,,0.4988,0.4988,na
+nike sportswear club||apparel||men's woven cargo pants||black/white||men,US,105.0,,76.142,76.142,,28.858,28.858,,lower_price,lower_price,,0.4957,0.4957,na
+nike one||apparel||women's high-waisted capri leggings||black/black||women,US,55.0,,83.7709,83.7709,,-28.7709,-28.7709,,raise_price,raise_price,,0.4972,0.4972,na
+ナイキ ペガサス イージーオン||footwear||メンズ ロード ランニングシューズ||ホワイト/ピュアプラチナム/ダークスモークグレー/ホワイト||men,JP,110.55,,139.2862,139.2862,,-28.7362,-28.7362,,raise_price,raise_price,,0.4978,0.4978,na
+orlando magic||apparel||jordan statement men's nike nba t-shirt||game royal||men,US,42.0,,70.4278,70.4278,,-28.4278,-28.4278,,raise_price,raise_price,,0.5032,0.5032,na
+nike sportswear club essentials||apparel||women's t-shirt (plus size)||white/black||women,FI,27.2391,,55.7462,55.7462,,-28.5071,-28.5071,,raise_price,raise_price,,0.5018,0.5018,na
+cincinnati bengals blitz victory||apparel||men’s nike dri-fit nfl shorts||black||men,US,55.0,,83.7361,83.7361,,-28.7361,-28.7361,,raise_price,raise_price,,0.4978,0.4978,na
+cincinnati bengals sideline coach||apparel||men's nike dri-fit nfl top||black||men,US,55.0,,83.7361,83.7361,,-28.7361,-28.7361,,raise_price,raise_price,,0.4978,0.4978,na
+ナイキ スポーツウェア クラブ フリース||apparel||ウィメンズ ミッドライズ ショートパンツ||ブラック/ホワイト||women,JP,46.431,,75.2481,75.2481,,-28.8171,-28.8171,,raise_price,raise_price,,0.4964,0.4964,na
+netherlands||apparel||2025/2026 nike club cap||obsidian/safety orange||men|women,SI,32.6891,,61.0942,61.0942,,-28.4051,-28.4051,,raise_price,raise_price,,0.5036,0.5036,na
+atlético madrid 2024/25 stadium home||apparel||older kids' nike dri-fit football replica shirt||hyper royal/light crimson/white||boys|girls,FI,95.9091,,67.3623,67.3623,,28.5468,28.5468,,lower_price,lower_price,,0.5011,0.5011,na
+chelsea f.c. 2024/25 stadium home||apparel||older kids' nike dri-fit football replica shirt||rush blue/team orange/white||boys|girls,FI,95.9091,,67.3623,67.3623,,28.5468,28.5468,,lower_price,lower_price,,0.5011,0.5011,na
+ナイキ クラブ||apparel||メンズ メッシュ フロー ショートパンツ||デニムターコイズ/ホワイト||men,JP,42.8733,,71.2671,71.2671,,-28.3938,-28.3938,,raise_price,raise_price,,0.5038,0.5038,na
+nike aeroswift||apparel||women's dri-fit adv cropped running tank top||off white/black||women,US,95.0,,123.8694,123.8694,,-28.8694,-28.8694,,raise_price,raise_price,,0.4955,0.4955,na
+inter milan 2026 match se||apparel||men's nike acg dri-fit adv football authentic shirt||hyper blue/black/safety orange||men,FI,163.4891,,135.0162,135.0162,,28.4729,28.4729,,lower_price,lower_price,,0.5024,0.5024,na
+rome odunze chicago bears||apparel||men's nike nfl game jersey||marine||men,US,130.0,,158.3094,158.3094,,-28.3094,-28.3094,,raise_price,raise_price,,0.5053,0.5053,na
+atlético de madrid 2025||apparel||men's nike dri-fit adv mlb limited jersey||white||men,US,175.0,,146.4135,146.4135,,28.5865,28.5865,,lower_price,lower_price,,0.5004,0.5004,na
+arizona cardinals sideline coach||apparel||men's nike dri-fit nfl top||black||men,US,55.0,,83.5864,83.5864,,-28.5864,-28.5864,,raise_price,raise_price,,0.5004,0.5004,na
+atlanta falcons sideline coach||apparel||men's nike dri-fit nfl top||black||men,US,55.0,,83.5864,83.5864,,-28.5864,-28.5864,,raise_price,raise_price,,0.5004,0.5004,na
+las vegas raiders sideline coach||apparel||men's nike dri-fit nfl top||black||men,US,55.0,,83.5864,83.5864,,-28.5864,-28.5864,,raise_price,raise_price,,0.5004,0.5004,na
+pittsburgh steelers sideline coach||apparel||men's nike dri-fit nfl top||black||men,US,55.0,,83.5864,83.5864,,-28.5864,-28.5864,,raise_price,raise_price,,0.5004,0.5004,na
+ナイキ エア マックス ポータル||footwear||ウィメンズシューズ||プラチナムバイオレット/ライトバイオレットオール/セイル/バイオレットオール||women,JP,99.495,,128.4166,128.4166,,-28.9216,-28.9216,,raise_price,raise_price,,0.4946,0.4946,na
+ナイキ セルソ ガール||footwear||ウィメンズスライド||ブラック/ホワイト||women,JP,23.584,,52.4065,52.4065,,-28.8225,-28.8225,,raise_price,raise_price,,0.4963,0.4963,na
+lebron witness 9||footwear||basketball shoes||desert pink/pink rise/white/black||men|women,FI,130.7891,,159.4499,159.4499,,-28.6608,-28.6608,,raise_price,raise_price,,0.4991,0.4991,na
+nike club||apparel||men's french terry flow shorts||dark grey heather/light smoke grey/white||men,FI,43.5891,,72.2959,72.2959,,-28.7068,-28.7068,,raise_price,raise_price,,0.4983,0.4983,na
+nike essential||apparel||women's u-back one-piece swimsuit (plus size)||black||women,US,94.0,,65.0902,65.0902,,28.9098,28.9098,,lower_price,lower_price,,0.4948,0.4948,na
+"nike acg ""wildsee""||apparel||women's base layer long-sleeve top||black/anthracite/summit white||women",US,75.0,,103.3482,103.3482,,-28.3482,-28.3482,,raise_price,raise_price,,0.5046,0.5046,na
+ナイキ エア マックス ボルト||footwear||メンズシューズ||ホワイト/ホワイト/ブラック||men,JP,85.492,,113.9927,113.9927,,-28.5007,-28.5007,,raise_price,raise_price,,0.5019,0.5019,na
+dallas cowboys||apparel||women's nike nfl 3/4-sleeve t-shirt||navy/white||women,US,45.0,,73.609,73.609,,-28.609,-28.609,,raise_price,raise_price,,0.5,0.5,na
+ヤニス アデトクンボ ミルウォーキー バックス シティ エディション||apparel||メンズ ナイキ nba スウィングマン ジャージー||フラットオパール||men,JP,137.1155,,108.5008,108.5008,,28.6147,28.6147,,lower_price,lower_price,,0.4999,0.4999,na
+jordan brooklyn||apparel||men's collegiate shorts||sport blue/black||men,SI,59.9391,,88.6226,88.6226,,-28.6835,-28.6835,,raise_price,raise_price,,0.4987,0.4987,na
+エア ジョーダン 1 low||footwear||メンズシューズ||ブラック/ホワイト/セイル/スターフィッシュ||men,JP,110.55,,138.8085,138.8085,,-28.2585,-28.2585,,raise_price,raise_price,,0.5062,0.5062,na
+lebron witness 9||footwear||basketball shoes||desert pink/pink rise/white/black||men|women,SI,130.7891,,159.358,159.358,,-28.5689,-28.5689,,raise_price,raise_price,,0.5007,0.5007,na
+nike match||equipment||goalkeeper soccer gloves||black/white/white||men|women,US,34.0,,62.4892,62.4892,,-28.4892,-28.4892,,raise_price,raise_price,,0.5021,0.5021,na
+nike air force 1 retro||footwear||men's shoes||summit white/black/summit white||men,US,130.0,,158.6203,158.6203,,-28.6203,-28.6203,,raise_price,raise_price,,0.4998,0.4998,na
+nike tech||apparel||men's fleece loose-fit open hem pants||anthracite/black||men,US,155.0,,126.4369,126.4369,,28.5631,28.5631,,lower_price,lower_price,,0.5008,0.5008,na
+jordan||apparel||men's milan t-shirt||white/black||men,SI,32.6891,,61.5752,61.5752,,-28.8861,-28.8861,,raise_price,raise_price,,0.4952,0.4952,na
+jordan||apparel||men's paris t-shirt||white/black||men,SI,32.6891,,61.5752,61.5752,,-28.8861,-28.8861,,raise_price,raise_price,,0.4952,0.4952,na
+nike sportswear chill knit||apparel||women's cropped t-shirt||black/white||women,FI,32.6891,,61.4995,61.4995,,-28.8104,-28.8104,,raise_price,raise_price,,0.4965,0.4965,na
+inter milan strike||apparel||men's nike dri-fit football knit tracksuit||grey haze/blue void/blue void||men,FI,152.5891,,124.1057,124.1057,,28.4834,28.4834,,lower_price,lower_price,,0.5022,0.5022,na
+nike air max 1 by you||footwear||custom men's shoes||multi-color/multi-color/multi-color||men,US,175.0,,146.5958,146.5958,,28.4042,28.4042,,lower_price,lower_price,,0.5036,0.5036,na
+trae young atlanta hawks 2023/24 city edition||apparel||older kids' nike dri-fit nba swingman jersey||black||boys,FI,101.3591,,72.7961,72.7961,,28.563,28.563,,lower_price,lower_price,,0.5008,0.5008,na
+nike standard issue||apparel||men's 12.7cm (approx.) practice mesh basketball shorts||sail/pale ivory/black||men,FI,49.0391,,77.7742,77.7742,,-28.7351,-28.7351,,raise_price,raise_price,,0.4978,0.4978,na
+nike dri-fit||equipment||skull cap||black||men,US,30.0,,58.7582,58.7582,,-28.7582,-28.7582,,raise_price,raise_price,,0.4974,0.4974,na
+ナイキ イニシエーター||footwear||メンズシューズ||アンスラサイト/スモークグレー/フォトンダスト/メタリッククールグレー||men,JP,64.3133,,93.1701,93.1701,,-28.8568,-28.8568,,raise_price,raise_price,,0.4957,0.4957,na
+ナイキ イニシエーター||footwear||メンズシューズ||オブシディアン/メタリックシルバー/ホワイト/チームゴールド||men,JP,64.3133,,93.1701,93.1701,,-28.8568,-28.8568,,raise_price,raise_price,,0.4957,0.4957,na
+ナイキ エア マックス ミューズ||footwear||ウィメンズシューズ リフレクティブ (再帰反射) アクセント付き||ピュアプラチナム/メタリックシルバー||women,JP,151.085,,122.2863,122.2863,,28.7987,28.7987,,lower_price,lower_price,,0.4967,0.4967,na
+ナイキ ジュニア マーキュリアル ヴェイパー 16 プロ||footwear||キッズ ファームグラウンド ローカット サッカースパイク||レーサーブルー/ホワイト||,JP,106.865,,78.2793,78.2793,,28.5857,28.5857,,lower_price,lower_price,,0.5004,0.5004,na
+"エア ジョーダン 6 レトロ x パリ サンジェルマン (psg) ""metallic silver""||footwear||メンズシューズ||メタリックシルバー/ピュアプラチナム/オイルグレー/メタリックシルバー||men",JP,216.678,,188.2514,188.2514,,28.4266,28.4266,,lower_price,lower_price,,0.5032,0.5032,na
+nike air max 270||footwear||older kids' shoe||black/black||boys|girls,FI,130.7891,,102.1577,102.1577,,28.6314,28.6314,,lower_price,lower_price,,0.4996,0.4996,na
+ナイキ ランニング ディビジョン||apparel||ウィメンズ ランニングジャケット||ブラック||women,JP,131.186,,102.8327,102.8327,,28.3533,28.3533,,lower_price,lower_price,,0.5045,0.5045,na
+atlético madrid strike||apparel||men's nike dri-fit football short-sleeve top||dark purple dust/vibrant yellow/vibrant yellow||men,SI,54.4891,,83.1434,83.1434,,-28.6543,-28.6543,,raise_price,raise_price,,0.4992,0.4992,na
+nike sb||apparel||fleece skate crew||black/white||men|women,US,85.0,,56.6636,56.6636,,28.3364,28.3364,,lower_price,lower_price,,0.5048,0.5048,na
+nike||apparel||women's slider softball shorts||team black/team white||women,US,37.0,,65.342,65.342,,-28.342,-28.342,,raise_price,raise_price,,0.5047,0.5047,na
+chelsea f.c. tech||apparel||men's nike total 90 football fleece joggers||black/field silver||men,FI,125.3391,,96.3715,96.3715,,28.9676,28.9676,,lower_price,lower_price,,0.4938,0.4938,na
+nike romaleos 4||footwear||weightlifting shoes||black/metallic gold/white/metallic gold||men|women,US,200.0,,171.4373,171.4373,,28.5627,28.5627,,lower_price,lower_price,,0.5008,0.5008,na
+chelsea f.c. 2025/26 stadium away||apparel||older kids' nike dri-fit football replica shirt||phantom/speed red/galactic jade/galactic jade||boys|girls,SI,87.1891,,58.4831,58.4831,,28.706,28.706,,lower_price,lower_price,,0.4983,0.4983,na
+chelsea f.c. 2025/26 stadium home||apparel||older kids' nike dri-fit football replica shirt||rush blue/white/speed red/white||boys|girls,SI,87.1891,,58.4831,58.4831,,28.706,28.706,,lower_price,lower_price,,0.4983,0.4983,na
+ナイキ スポーツウェア フェニックス フリース||apparel||ウィメンズ ルーズ ハイウエスト 5cm ロゴ ショートパンツ||プラチナムバイオレット/ライトオールウッドブラウン/スモーキーモーブ||women,JP,48.9033,,77.2621,77.2621,,-28.3588,-28.3588,,raise_price,raise_price,,0.5044,0.5044,na
+france||apparel||2025/2026 nike club cap||obsidian/bleached coral||men|women,SI,32.6891,,61.0142,61.0142,,-28.3251,-28.3251,,raise_price,raise_price,,0.505,0.505,na
+nike sportswear||apparel||older kids' t-shirt||black/fire pink||boys|girls,FI,25.0591,,53.5705,53.5705,,-28.5114,-28.5114,,raise_price,raise_price,,0.5017,0.5017,na
+jordan 6 rings||footwear||big kids' shoes||black/black/infrared 23||boys|girls,US,140.0,,111.3573,111.3573,,28.6427,28.6427,,lower_price,lower_price,,0.4994,0.4994,na
+nike air max 90 g||footwear||golf shoes||white/hot lime||men|women,US,145.0,,173.3475,173.3475,,-28.3475,-28.3475,,raise_price,raise_price,,0.5046,0.5046,na
+nike||apparel||baby gripper ankle socks (3 pairs)||multi-colour/university red||boys|girls,FI,13.0691,,41.3549,41.3549,,-28.2858,-28.2858,,raise_price,raise_price,,0.5057,0.5057,na
+"エア ジョーダン 9 レトロ ""flint grey and french blue""||footwear||メンズシューズ||ホワイト/フリントグレー/フレンチブルー||men",JP,216.678,,188.4313,188.4313,,28.2467,28.2467,,lower_price,lower_price,,0.5064,0.5064,na
+nike one||apparel||women's therma-fit full-zip top||black/white||women,SI,92.6391,,63.8408,63.8408,,28.7983,28.7983,,lower_price,lower_price,,0.4967,0.4967,na
+ジョーダン||apparel||ジュニア エッセンシャル ドラフト ジャケット||オーラ||boys,JP,66.33,,37.4036,37.4036,,28.9264,28.9264,,lower_price,lower_price,,0.4945,0.4945,na
+ナイキ x ストレンジャー シングス||apparel||メンズ フリース パンツ||ライトフォトブルー/ライトフォトブルー||men,JP,75.911,,104.1632,104.1632,,-28.2522,-28.2522,,raise_price,raise_price,,0.5063,0.5063,na
+nike acg 'dolomiti'||apparel||men's trousers||black/summit white||men,SI,108.9891,,137.3477,137.3477,,-28.3586,-28.3586,,raise_price,raise_price,,0.5044,0.5044,na
+nikeskims matte tricot||apparel||women's oversized full-zip track jacket||nskm dark roast||women,US,118.0,,89.409,89.409,,28.591,28.591,,lower_price,lower_price,,0.5003,0.5003,na
+ナイキ スポーツウェア||apparel||ウィメンズ tシャツ||ブラック/アンスラサイト||women,JP,35.376,,64.3199,64.3199,,-28.9439,-28.9439,,raise_price,raise_price,,0.4942,0.4942,na
+nike air superfly||footwear||women's shoes||pale ivory/metallic silver/volt/pale ivory||women,SI,108.9891,,137.7179,137.7179,,-28.7288,-28.7288,,raise_price,raise_price,,0.4979,0.4979,na
+nike cortez textile||footwear||women's shoes||silt red/phantom/light chocolate||women,SI,108.9891,,137.7179,137.7179,,-28.7288,-28.7288,,raise_price,raise_price,,0.4979,0.4979,na
+nike refuel||equipment||water bottle (24 oz)||pink||men|women,US,14.0,,42.8272,42.8272,,-28.8272,-28.8272,,raise_price,raise_price,,0.4962,0.4962,na
+nike fire||equipment||large polarized sunglasses||mystic navy||men|women,US,105.0,,76.4319,76.4319,,28.5681,28.5681,,lower_price,lower_price,,0.5007,0.5007,na
+nike acg vista vert||equipment||sunglasses||safety orange/vast grey||men|women,SI,190.7391,,162.4591,162.4591,,28.28,28.28,,lower_price,lower_price,,0.5058,0.5058,na
+ジョーダン スポーツ||apparel||メンズ dri-fit グラフィック ショートパンツ||パープルコメット/ホワイト||men,JP,42.746,,71.4574,71.4574,,-28.7114,-28.7114,,raise_price,raise_price,,0.4982,0.4982,na
+nike sportswear||apparel||women's cropped t-shirt||team crimson||women,US,37.0,,65.2409,65.2409,,-28.2409,-28.2409,,raise_price,raise_price,,0.5065,0.5065,na
+san francisco 49ers sideline team issue||apparel||men's nike dri-fit nfl long-sleeve t-shirt||red||men,US,45.0,,73.6711,73.6711,,-28.6711,-28.6711,,raise_price,raise_price,,0.4989,0.4989,na
+ナイキ dri-fit アンリミテッド||apparel||メンズ テーパード レッグ バーサタイル パンツ||グレーフォグ/ブラック/グレーフォグ||men,JP,73.7,,45.1605,45.1605,,28.5395,28.5395,,lower_price,lower_price,,0.5012,0.5012,na
+chelsea f.c.||apparel||women's nike football t-shirt||outdoor green||women,SI,32.6891,,61.5336,61.5336,,-28.8445,-28.8445,,raise_price,raise_price,,0.4959,0.4959,na
+nike sportswear phoenix fleece||apparel||women's oversized high-waisted graphic trousers||tattoo/light violet ore||women,FI,70.8391,,99.3274,99.3274,,-28.4883,-28.4883,,raise_price,raise_price,,0.5021,0.5021,na
+nike sportswear windrunner||apparel||women's mid-rise slim knit trousers||sail/playful pink/sail||women,FI,70.8391,,99.3274,99.3274,,-28.4883,-28.4883,,raise_price,raise_price,,0.5021,0.5021,na
+ナイキ クラブ||apparel||アンストラクチャード スウッシュ キャップ||ブラック/ブラック||men|women,JP,24.321,,52.6344,52.6344,,-28.3134,-28.3134,,raise_price,raise_price,,0.5052,0.5052,na
+nike air||apparel||men's windrunner tracksuit jacket||light bone||men,SI,119.8891,,91.6037,91.6037,,28.2854,28.2854,,lower_price,lower_price,,0.5057,0.5057,na
+nike||apparel||men's dri-fit running t-shirt||moon particle||men,US,37.0,,65.5052,65.5052,,-28.5052,-28.5052,,raise_price,raise_price,,0.5018,0.5018,na
+nike||apparel||baby (12-24m) swoosh “just do it” t-shirt||hyper pink||girls,SI,16.3391,,45.1369,45.1369,,-28.7978,-28.7978,,raise_price,raise_price,,0.4967,0.4967,na
+ナイキ プロジェクト f.r.o.g.||apparel||メンズ トラックジャケット||ライトクリムゾン/ダークラセット/ホワイト/ライトレモンツイスト||men,JP,151.085,,122.2872,122.2872,,28.7978,28.7978,,lower_price,lower_price,,0.4967,0.4967,na
+dallas mavericks essential hardwood classics||apparel||women's nike nba t-shirt||clover||women,US,40.0,,68.2685,68.2685,,-28.2685,-28.2685,,raise_price,raise_price,,0.506,0.506,na
+"nike field general se ""lny""||footwear||women's shoes||soft pearl/neutral olive/team crimson/dark hazel||men|women",US,115.0,,143.6478,143.6478,,-28.6478,-28.6478,,raise_price,raise_price,,0.4993,0.4993,na
+ナイキ スポーツウェア||apparel||マックス90 tシャツ||オリーブオーラ||men|women,JP,46.431,,75.4272,75.4272,,-28.9962,-28.9962,,raise_price,raise_price,,0.4933,0.4933,na
+ジョーダン ブルックリン フリース||apparel||メンズ クルーネック スウェットシャツ||ブラック/ジムレッド||men,JP,54.9333,,83.7484,83.7484,,-28.8151,-28.8151,,raise_price,raise_price,,0.4964,0.4964,na
+ナイキ コート ビジョン low||footwear||メンズシューズ||セイル/ライトオールウッドブラウン/ホワイト/ライトスモークグレー||men,JP,58.96,,87.3236,87.3236,,-28.3636,-28.3636,,raise_price,raise_price,,0.5043,0.5043,na
+ナイキ テラ マンタ||footwear||メンズシューズ||サミットホワイト/ガムライトブラウン/ホワイト/コメットブルー||men,JP,70.015,,98.418,98.418,,-28.403,-28.403,,raise_price,raise_price,,0.5036,0.5036,na
+nike shox ride 2||footwear||men's shoes||white/white/black/black||men,US,190.0,,161.6308,161.6308,,28.3692,28.3692,,lower_price,lower_price,,0.5042,0.5042,na
+nike club||apparel||men's woven tracksuit||obsidian/white/game royal/white||men,SI,108.9891,,80.2205,80.2205,,28.7686,28.7686,,lower_price,lower_price,,0.4972,0.4972,na
+nike||apparel||younger kids' 2-piece beanie and gloves set||bubblegum||boys|girls,SI,25.0591,,53.2716,53.2716,,-28.2125,-28.2125,,raise_price,raise_price,,0.507,0.507,na
+nike sportswear phoenix plush||apparel||women's high-waisted wide-leg cosy fleece trousers||black/sail||women,FI,81.7391,,109.9683,109.9683,,-28.2292,-28.2292,,raise_price,raise_price,,0.5067,0.5067,na
+nike velocity||apparel||men's dri-fit golf polo||wolf grey/black||men,US,65.0,,93.3523,93.3523,,-28.3523,-28.3523,,raise_price,raise_price,,0.5045,0.5045,na
+nike sportswear||apparel||men's long-sleeve t-shirt||black||men,US,40.0,,69.0135,69.0135,,-29.0135,-29.0135,,raise_price,raise_price,,0.493,0.493,na
+ジョーダン スポーツ||apparel||メンズ ニット ボタンダウン ゴルフトップ||ブラック/ファントム/ブラック||men,JP,137.819,,108.8055,108.8055,,29.0135,29.0135,,lower_price,lower_price,,0.493,0.493,na
+ナイキ エア マックス ゴードーム low sp||footwear||メンズシューズ||ブラック/アンスラサイト/ブラック||men,JP,162.14,,133.8328,133.8328,,28.3072,28.3072,,lower_price,lower_price,,0.5053,0.5053,na
+nike club||apparel||men's basketball t-shirt||black||men,FI,38.1391,,66.4295,66.4295,,-28.2904,-28.2904,,raise_price,raise_price,,0.5056,0.5056,na
+paris saint-germain||apparel||older kids' nike football synthetic fill hooded jacket||black/cargo khaki/cargo khaki||boys|girls,FI,103.5391,,74.5844,74.5844,,28.9547,28.9547,,lower_price,lower_price,,0.494,0.494,na
+nike (m) one||apparel||women's dri-fit slim-fit short-sleeve top (maternity)||black/white||women,US,47.0,,75.7915,75.7915,,-28.7915,-28.7915,,raise_price,raise_price,,0.4968,0.4968,na
+エア ジョーダン||apparel||ジュニア (ボーイズ) ショートスリーブ tシャツ||ジムレッド||boys,JP,25.058,,53.8032,53.8032,,-28.7452,-28.7452,,raise_price,raise_price,,0.4976,0.4976,na
+ナイキ クラブ||apparel||メンズ ニット ショートパンツ||ホワイト/ホワイト/スタジアムグリーン||men,JP,42.8733,,71.2703,71.2703,,-28.397,-28.397,,raise_price,raise_price,,0.5037,0.5037,na
+nocta テック フリース||apparel||メンズ フルジップ パーカー||シトロンティント/ビビッドサルファー||men,JP,149.611,,120.6271,120.6271,,28.9839,28.9839,,lower_price,lower_price,,0.4935,0.4935,na
+nike blazer low by you||footwear||custom women's shoes||multi-colour/multi-colour/multi-colour/multi-colour||women,SI,119.8891,,148.1737,148.1737,,-28.2846,-28.2846,,raise_price,raise_price,,0.5057,0.5057,na
+nike pegasus premium sp||footwear||men's road running shoes||light loden/dark charcoal/deep pewter/metallic medium ash||men,FI,228.8891,,199.9288,199.9288,,28.9603,28.9603,,lower_price,lower_price,,0.4939,0.4939,na
+nikecourt||equipment||women's tennis headband||white/black||men|women,FI,21.7891,,50.7611,50.7611,,-28.972,-28.972,,raise_price,raise_price,,0.4937,0.4937,na
+devin booker phoenix suns 2023/24 icon edition||apparel||men's nike dri-fit adv nba authentic jersey||new orchid||men,US,210.0,,181.1972,181.1972,,28.8028,28.8028,,lower_price,lower_price,,0.4966,0.4966,na
+ナイキ エア マックス dn8||footwear||メンズシューズ||ダークヘーゼル/ファウナブラウン/ベアリーボルト/ペールアイボリー||men,JP,176.88,,148.1004,148.1004,,28.7796,28.7796,,lower_price,lower_price,,0.497,0.497,na
+chelsea f.c. academy pro||apparel||women's nike dri-fit football pre-match top||white/pure platinum/rush blue||women,SI,70.8391,,99.2021,99.2021,,-28.363,-28.363,,raise_price,raise_price,,0.5043,0.5043,na
+kansas city chiefs legend icon||apparel||men's nike dri-fit nfl long-sleeve t-shirt||red||men,US,45.0,,73.8666,73.8666,,-28.8666,-28.8666,,raise_price,raise_price,,0.4955,0.4955,na
+ナイキ スポーツウェア ウィンドランナー||apparel||ウィメンズ ルーズ uv プロテクション ウーブン フルジップ プリント ジャケット||チームゴールド||women,JP,110.55,,82.159,82.159,,28.391,28.391,,lower_price,lower_price,,0.5038,0.5038,na
+ナイキ スポーツウェア||apparel||ウィメンズ オーバーサイズド フーデッド ジャケット||ブラック/チョーク||women,JP,110.55,,82.159,82.159,,28.391,28.391,,lower_price,lower_price,,0.5038,0.5038,na
+nike air max 95 'big bubble'||footwear||older kids' shoes||black/university red/white/smoke grey||boys|girls,FI,152.5891,,123.8097,123.8097,,28.7794,28.7794,,lower_price,lower_price,,0.497,0.497,na
+nike air max 95||footwear||older kids' shoes||black/anthracite/light smoke grey/cool grey||boys|girls,FI,152.5891,,123.8097,123.8097,,28.7794,28.7794,,lower_price,lower_price,,0.497,0.497,na
+air jordan||apparel||festival bag (1.5l)||black/black/black||men,SI,49.0391,,77.8823,77.8823,,-28.8432,-28.8432,,raise_price,raise_price,,0.4959,0.4959,na
+nike acg goat||equipment||pack vest (5l)||grey fog/safety orange/summit white||men|women,SI,147.1391,,118.138,118.138,,29.0011,29.0011,,lower_price,lower_price,,0.4932,0.4932,na
+ナイキ ストラクチャー プラス||footwear||メンズ ロード ランニングシューズ||ブラック/ライトスモークグレー/ブライトクリムゾン/シルバー||men,JP,147.4,,119.1493,119.1493,,28.2507,28.2507,,lower_price,lower_price,,0.5063,0.5063,na
+f.c. barcelona strike fourth||apparel||men's nike dri-fit football short-sleeve top||university blue/university blue/opti yellow/opti yellow||men,FI,54.4891,,83.4139,83.4139,,-28.9248,-28.9248,,raise_price,raise_price,,0.4945,0.4945,na
+nikeskims matte||apparel||women's shaping scoop bra||nskm dark teal/nskm dark teal||women,US,50.0,,78.3177,78.3177,,-28.3177,-28.3177,,raise_price,raise_price,,0.5051,0.5051,na
+nike gp challenge 1||footwear||women's clay court tennis shoes||black/black/white||women,US,160.0,,131.157,131.157,,28.843,28.843,,lower_price,lower_price,,0.4959,0.4959,na
+ナイキ アストラ ウルトラ プレミアム||footwear||ウィメンズシューズ||ブラック/ブラック/ブラック/メタリックシルバー||women,JP,128.975,,100.0094,100.0094,,28.9656,28.9656,,lower_price,lower_price,,0.4938,0.4938,na
+ナイキ コート ビジョン low||footwear||メンズシューズ||ブラック/ガムライトブラウン/セイル||men,JP,58.96,,87.2944,87.2944,,-28.3344,-28.3344,,raise_price,raise_price,,0.5048,0.5048,na
+air jordan||apparel||women's tank top||black/dark smoke grey/black||women,FI,108.9891,,80.1171,80.1171,,28.872,28.872,,lower_price,lower_price,,0.4954,0.4954,na
+boston red sox team stripe peak||apparel||men's nike mlb cuffed pom beanie||navy||men,US,32.0,,60.9303,60.9303,,-28.9303,-28.9303,,raise_price,raise_price,,0.4944,0.4944,na
+"nike acg ""wildsee""||apparel||men's dri-fit long-sleeve base layer||black/anthracite/summit white||men",US,75.0,,103.9069,103.9069,,-28.9069,-28.9069,,raise_price,raise_price,,0.4948,0.4948,na
+ナイキ バーシティ エリート||equipment||バスケットボール シューズバッグ (14l)||ブラック/ブラック/メタリックシルバー||men|women,JP,41.272,,13.1107,13.1107,,28.1613,28.1613,,lower_price,lower_price,,0.5079,0.5079,na
+ナイキ テック||apparel||ジュニア (ボーイズ) ウーブン パンツ||ブラック/オブシディアン/ブラック||boys,JP,88.44,,60.145,60.145,,28.295,28.295,,lower_price,lower_price,,0.5055,0.5055,na
+netherlands (women's team) 2024/25 stadium goalkeeper||apparel||men's nike dri-fit football replica shirt||green spark/pine green/white||men,FI,130.7891,,101.8706,101.8706,,28.9185,28.9185,,lower_price,lower_price,,0.4946,0.4946,na
+nike energy||apparel||older kids' repel football woven jacket||midnight navy/court blue/pink foam/court blue||boys|girls,FI,81.7391,,52.7914,52.7914,,28.9477,28.9477,,lower_price,lower_price,,0.4941,0.4941,na
+nike tech||apparel||men's dri-fit shori-knit trousers||black/black||men,FI,119.8891,,148.1058,148.1058,,-28.2167,-28.2167,,raise_price,raise_price,,0.5069,0.5069,na
+netherlands||equipment||2025/2026 nike academy ball||safety orange/university red/bright blue/white||men|women,FI,35.9591,,64.1591,64.1591,,-28.2,-28.2,,raise_price,raise_price,,0.5072,0.5072,na
+"nike pro||apparel||women's dri-fit 3"" shorts||burgundy crush/football grey/playful pink||women",US,38.0,,66.8484,66.8484,,-28.8484,-28.8484,,raise_price,raise_price,,0.4958,0.4958,na
+nikecourt advantage||apparel||women's dri-fit tennis dress||sapphire/black||women,US,115.0,,86.1168,86.1168,,28.8832,28.8832,,lower_price,lower_price,,0.4952,0.4952,na
+"サブリナ 3 ""gamer"" ep||footwear||バスケットボールシューズ||グリーンショック/ベイパーグリーン/ビビッドパープル/ブラック||men|women",JP,112.761,,140.9774,140.9774,,-28.2164,-28.2164,,raise_price,raise_price,,0.5069,0.5069,na
+nike brasilia 9.5||equipment||training gymsack (18l)||iron grey/black/white||men|women,FI,21.7891,,49.9444,49.9444,,-28.1553,-28.1553,,raise_price,raise_price,,0.508,0.508,na
+nike college (hampton university)||apparel||men's tri-blend short-sleeve t-shirt||rush blue||men,US,42.0,,70.2331,70.2331,,-28.2331,-28.2331,,raise_price,raise_price,,0.5066,0.5066,na
+nike college (tennessee state university)||apparel||men's tri-blend short-sleeve t-shirt||rush blue||men,US,42.0,,70.2331,70.2331,,-28.2331,-28.2331,,raise_price,raise_price,,0.5066,0.5066,na
+ジョーダン||apparel||メンズ グラフィック tシャツ||ブラック||men,JP,32.428,,60.6277,60.6277,,-28.1997,-28.1997,,raise_price,raise_price,,0.5072,0.5072,na
+nike calm||footwear||men's mules||black/black||men,SI,76.2891,,105.2775,105.2775,,-28.9884,-28.9884,,raise_price,raise_price,,0.4934,0.4934,na
+jordan flight court||footwear||men's shoes||black/aura/dark grey||men,FI,119.8891,,148.7488,148.7488,,-28.8597,-28.8597,,raise_price,raise_price,,0.4956,0.4956,na
+ナイキ エア マックス dn8||footwear||ウィメンズシューズ||レーザーフューシャ/スポーツフューシャ/ブラック||women,JP,169.51,,140.4333,140.4333,,29.0767,29.0767,,lower_price,lower_price,,0.4919,0.4919,na
+ヤニス フリーク 6 ep||footwear||バスケットボールシューズ||ホワイト/ウルフグレー/ブラック||men|women,JP,105.391,,134.4381,134.4381,,-29.0471,-29.0471,,raise_price,raise_price,,0.4924,0.4924,na
+fcバルセロナ クラブ フォース||apparel||メンズ ナイキ サッカージョガーパンツ||チームレッド/オプティイエロー||men,JP,62.9733,,91.9263,91.9263,,-28.953,-28.953,,raise_price,raise_price,,0.494,0.494,na
+nike united states olympic team phoenix fleece||apparel||women's fleece hoodie||obsidian/obsidian||women,US,85.0,,56.7727,56.7727,,28.2273,28.2273,,lower_price,lower_price,,0.5067,0.5067,na
+nike pro||apparel||women's dri-fit cropped tank top||smoke grey/heather/white||women,FI,38.1391,,66.2886,66.2886,,-28.1495,-28.1495,,raise_price,raise_price,,0.5081,0.5081,na
+ナイキ エア フットスケープ ウーブン||footwear||ウィメンズシューズ||ブラック/ホワイト/ブラック||men|women,JP,156.981,,128.0457,128.0457,,28.9353,28.9353,,lower_price,lower_price,,0.4943,0.4943,na
+nikeskims matte tricot||apparel||women's side-snap trousers||nskm obsidian||women,FI,130.7891,,102.5842,102.5842,,28.2049,28.2049,,lower_price,lower_price,,0.5071,0.5071,na
+mlb chicago white sox city connect||apparel||women's replica baseball jersey||black/anthracite||women,US,135.0,,106.0237,106.0237,,28.9763,28.9763,,lower_price,lower_price,,0.4936,0.4936,na
+ジョーダン||apparel||メンズ⁠大阪⁠tシャツ||ブラック||men,JP,28.8033,,57.8266,57.8266,,-29.0233,-29.0233,,raise_price,raise_price,,0.4928,0.4928,na
+new york yankees club||apparel||men's nike mlb trucker adjustable hat||khaki||women,US,32.0,,60.2048,60.2048,,-28.2048,-28.2048,,raise_price,raise_price,,0.5071,0.5071,na
+エア ジョーダン||apparel||ウィメンズタンクトップ||ルミナスグリーン/ジニア/ルミナスグリーン||women,JP,90.651,,118.8558,118.8558,,-28.2048,-28.2048,,raise_price,raise_price,,0.5071,0.5071,na
+nike sportswear||apparel||men's max90 t-shirt||light army||men,US,40.0,,68.1935,68.1935,,-28.1935,-28.1935,,raise_price,raise_price,,0.5073,0.5073,na
+england 2025/26 stadium away||apparel||women's nike dri-fit football replica shorts||black/light photo blue||women,SI,54.4891,,82.811,82.811,,-28.3219,-28.3219,,raise_price,raise_price,,0.505,0.505,na
+jordan brand||apparel||men's sneaker patch t-shirt||black/varsity red||men,FI,49.0391,,77.2437,77.2437,,-28.2046,-28.2046,,raise_price,raise_price,,0.5071,0.5071,na
+auburn campus center stack velocity||apparel||men's nike dri-fit college t-shirt||navy||men,US,42.0,,70.9291,70.9291,,-28.9291,-28.9291,,raise_price,raise_price,,0.4944,0.4944,na
+nike sportswear||apparel||men's woven shorts||black/dark smoke grey/university red||men,FI,54.4891,,82.7494,82.7494,,-28.2603,-28.2603,,raise_price,raise_price,,0.5061,0.5061,na
+jordan sport essentials||apparel||men's dri-fit sleeveless top||midnight navy||men,FI,38.1391,,67.1503,67.1503,,-29.0112,-29.0112,,raise_price,raise_price,,0.493,0.493,na
+nike x lego® collection||apparel||big kids' logo t-shirt||work blue||boys|girls,US,35.0,,63.1324,63.1324,,-28.1324,-28.1324,,raise_price,raise_price,,0.5084,0.5084,na
+nike sportswear||apparel||older kids' tank top||black/light smoke grey||boys|girls,FI,27.2391,,56.3092,56.3092,,-29.0701,-29.0701,,raise_price,raise_price,,0.492,0.492,na
+nike sportswear||apparel||older kids' (boys') t-shirt||sand drift||boys,FI,32.6891,,61.6239,61.6239,,-28.9348,-28.9348,,raise_price,raise_price,,0.4943,0.4943,na
+nike sportswear windrunner||apparel||women's woven jacket||chalk/black/black||women,US,120.0,,91.751,91.751,,28.249,28.249,,lower_price,lower_price,,0.5063,0.5063,na
+ナイキ ショックス z se||footwear||ウィメンズシューズ||パーティクルローズ/ファントム/バーガンディクラッシュ||women,JP,134.871,,163.1815,163.1815,,-28.3105,-28.3105,,raise_price,raise_price,,0.5052,0.5052,na
+ナイキ ショックス z se||footwear||ウィメンズシューズ||ファントム/メタリックシルバー/マルチカラー||women,JP,134.871,,163.1815,163.1815,,-28.3105,-28.3105,,raise_price,raise_price,,0.5052,0.5052,na
+fff 2025 match away (women's team)||apparel||men's nike dri-fit adv football authentic shirt||pale ivory/sail/bright blue/light madder root||men,SI,163.4891,,134.5894,134.5894,,28.8997,28.8997,,lower_price,lower_price,,0.4949,0.4949,na
+fff 2025 match home (women's team)||apparel||men's nike dri-fit adv football authentic shirt||blue void/light madder root||men,SI,163.4891,,134.5894,134.5894,,28.8997,28.8997,,lower_price,lower_price,,0.4949,0.4949,na
+nike pro dri-fit||apparel||men's short-sleeve top||particle grey/grey fog/heather/black||men,SI,43.5891,,71.7269,71.7269,,-28.1378,-28.1378,,raise_price,raise_price,,0.5083,0.5083,na
+nike 24.7 impossiblysoft||apparel||men's dri-fit crew||grey fog/light smoke grey||men,FI,98.0891,,127.0589,127.0589,,-28.9698,-28.9698,,raise_price,raise_price,,0.4937,0.4937,na
+ナイキ クエスト 6||footwear||ウィメンズ ロードランニングシューズ||ブラック/アイアングレー/ホワイト||women,JP,64.856,,93.8845,93.8845,,-29.0285,-29.0285,,raise_price,raise_price,,0.4927,0.4927,na
+christian yelich milwaukee brewers||apparel||women's nike dri-fit adv mlb limited jersey||cream||women,US,175.0,,145.9303,145.9303,,29.0697,29.0697,,lower_price,lower_price,,0.492,0.492,na
+nike tempo||apparel||big kids' (girls') dri-fit running shorts||university red/university red/white/white||girls,US,25.0,,53.1319,53.1319,,-28.1319,-28.1319,,raise_price,raise_price,,0.5084,0.5084,na
+georgia premium performance||apparel||men's nike dri-fit college pullover hoodie||black||men,US,110.0,,81.7793,81.7793,,28.2207,28.2207,,lower_price,lower_price,,0.5068,0.5068,na
+nike zegama 2||footwear||men's trail-running shoes||malt/ghost/alabaster/black||men,FI,196.1891,,167.1077,167.1077,,29.0814,29.0814,,lower_price,lower_price,,0.4918,0.4918,na
+"エア ジョーダン 3 レトロ ""rare air""||footwear||ジュニアシューズ||ブラック/ニュートラルグレー/ミリタリーブルー/チリレッド||boys|girls",JP,165.825,,137.5598,137.5598,,28.2652,28.2652,,lower_price,lower_price,,0.506,0.506,na
+"エア ジョーダン 4 レトロ ""black cat""||footwear||ジュニアシューズ||ブラック/ライトグラファイト/ブラック||boys|girls",JP,165.825,,137.5598,137.5598,,28.2652,28.2652,,lower_price,lower_price,,0.506,0.506,na
+"エア ジョーダン 9 レトロ ""flint grey and french blue""||footwear||ジュニアシューズ||ホワイト/フリントグレー/フレンチブルー||boys|girls",JP,165.825,,137.5598,137.5598,,28.2652,28.2652,,lower_price,lower_price,,0.506,0.506,na
+jung hoo lee korea national baseball team 2026 world baseball classic||apparel||men's nike t-shirt||navy||men,US,50.0,,78.9692,78.9692,,-28.9692,-28.9692,,raise_price,raise_price,,0.4937,0.4937,na
+chelsea f.c. strike||apparel||men's nike dri-fit football anthem jacket||rush blue/game royal/white||men,SI,152.5891,,124.3298,124.3298,,28.2593,28.2593,,lower_price,lower_price,,0.5061,0.5061,na
+nike academy||apparel||men's nike dri-fit football shorts||blue void/white/black/pinksicle||men,SI,27.2391,,56.2434,56.2434,,-29.0043,-29.0043,,raise_price,raise_price,,0.4931,0.4931,na
+ナイキ スポーツウェア||apparel||ウィメンズ タイト ロングスリーブ クロップド トップス||ファー/ミッドナイトネイビー/チョーク/チョーク||women,JP,50.853,,78.9512,78.9512,,-28.0982,-28.0982,,raise_price,raise_price,,0.509,0.509,na
+"acg ""wolf lichen""||apparel||クルー||ブラック/アンスラサイト/クールグレー/サミットホワイト||men|women",JP,159.192,,130.0994,130.0994,,29.0926,29.0926,,lower_price,lower_price,,0.4916,0.4916,na
+north carolina tech fleece||apparel||men's nike brand college pullover crew||black||men,US,130.0,,101.88,101.88,,28.12,28.12,,lower_price,lower_price,,0.5086,0.5086,na
+jordan dri-fit||equipment||skinny arm bands (2-pack)||white/black||men|boys|women|girls,US,12.0,,40.1643,40.1643,,-28.1643,-28.1643,,raise_price,raise_price,,0.5078,0.5078,na
+tarik skubal usa baseball 2026 world baseball classic||apparel||men's nike t-shirt||navy||men,US,50.0,,79.0687,79.0687,,-29.0687,-29.0687,,raise_price,raise_price,,0.492,0.492,na
+ナイキ ショックス r4||footwear||メンズシューズ||ジムレッド/メタリックシルバー||men,JP,142.241,,113.1723,113.1723,,29.0687,29.0687,,lower_price,lower_price,,0.492,0.492,na
+yoshinobu yamamoto japan national baseball team 2026 world baseball classic||apparel||men's nike t-shirt||navy||men,US,50.0,,78.2421,78.2421,,-28.2421,-28.2421,,raise_price,raise_price,,0.5064,0.5064,na
+ナイキ スポーツウェア クラブ primaloft®||apparel||メンズ ウォーターレペラント パファー ベスト||アイアングレー/ホワイト||men,JP,134.871,,106.6066,106.6066,,28.2644,28.2644,,lower_price,lower_price,,0.506,0.506,na
+ナイキ スポーツウェア||apparel||メンズ サーマル トップ||ミッドナイトネイビー/アッシェンスレート||men,JP,53.801,,82.0654,82.0654,,-28.2644,-28.2644,,raise_price,raise_price,,0.506,0.506,na
+tank dell houston texans||apparel||men's nike nfl game football jersey||navy||men,US,130.0,,158.1365,158.1365,,-28.1365,-28.1365,,raise_price,raise_price,,0.5083,0.5083,na
+chelsea f.c. 2025/26 stadium away||apparel||older kids' nike dri-fit football replica shirt||phantom/speed red/galactic jade/galactic jade||boys|girls,FI,87.1891,,59.0138,59.0138,,28.1753,28.1753,,lower_price,lower_price,,0.5076,0.5076,na
+chelsea f.c. 2025/26 stadium home||apparel||older kids' nike dri-fit football replica shirt||rush blue/white/speed red/white||boys|girls,FI,87.1891,,59.0138,59.0138,,28.1753,28.1753,,lower_price,lower_price,,0.5076,0.5076,na
+nike sportswear city utility easyon||apparel||older kids' therma-fit winterized trousers||smoke grey/black||boys|girls,FI,87.1891,,59.0913,59.0913,,28.0978,28.0978,,lower_price,lower_price,,0.509,0.509,na
+ナイキ ld-1000 sp||footwear||メンズシューズ||ライトブリティッシュタン/ピンクサイクル||men|women,JP,98.021,,126.9778,126.9778,,-28.9568,-28.9568,,raise_price,raise_price,,0.4939,0.4939,na
+nike pole vault elite||footwear||track & field jumping spikes||white/teal tint/fire pink/obsidian||men|women,US,135.0,,163.2253,163.2253,,-28.2253,-28.2253,,raise_price,raise_price,,0.5067,0.5067,na
+nike fast||apparel||men's dri-fit running singlet||laser orange||men,US,47.0,,75.2306,75.2306,,-28.2306,-28.2306,,raise_price,raise_price,,0.5066,0.5066,na
+"boston celtics courtside ""halloween""||apparel||men's nike nba max90 t-shirt||black||men",US,45.0,,73.0809,73.0809,,-28.0809,-28.0809,,raise_price,raise_price,,0.5093,0.5093,na
+"brooklyn nets courtside ""halloween""||apparel||men's nike nba max90 t-shirt||black||men",US,45.0,,73.0809,73.0809,,-28.0809,-28.0809,,raise_price,raise_price,,0.5093,0.5093,na
+"golden state warriors courtside ""halloween""||apparel||men's nike nba max90 t-shirt||black||men",US,45.0,,73.0809,73.0809,,-28.0809,-28.0809,,raise_price,raise_price,,0.5093,0.5093,na
+"la clippers courtside ""halloween""||apparel||men's nike nba max90 t-shirt||black||men",US,45.0,,73.0809,73.0809,,-28.0809,-28.0809,,raise_price,raise_price,,0.5093,0.5093,na
+"new york knicks courtside ""halloween""||apparel||men's nike nba max90 t-shirt||black||men",US,45.0,,73.0809,73.0809,,-28.0809,-28.0809,,raise_price,raise_price,,0.5093,0.5093,na
+nike precision 7||footwear||men's basketball shoes||black/anthracite||men|women,US,80.0,,108.2417,108.2417,,-28.2417,-28.2417,,raise_price,raise_price,,0.5064,0.5064,na
+nike premium||equipment||tag fob||black||men|women,US,16.0,,44.1971,44.1971,,-28.1971,-28.1971,,raise_price,raise_price,,0.5072,0.5072,na
+ナイキ スポーツウェア クラブ フリース||apparel||ウィメンズ プルオーバー クルーネック スウェットシャツ||プラチナムバイオレット||women,JP,54.5028,,83.6243,83.6243,,-29.1215,-29.1215,,raise_price,raise_price,,0.4911,0.4911,na
+nike||apparel||men's 25.5cm (approx.) denim basketball shorts||blue grey/pale ivory||men,FI,141.6891,,113.5862,113.5862,,28.1029,28.1029,,lower_price,lower_price,,0.5089,0.5089,na
+kylian mbappé academy||apparel||older kids' dri-fit football shorts||grand purple/grand purple/blue void/metallic gold||boys|girls,FI,41.4091,,69.4844,69.4844,,-28.0753,-28.0753,,raise_price,raise_price,,0.5094,0.5094,na
+seattle storm||apparel||big kids' nike wnba t-shirt||fir||boys,US,32.0,,60.9798,60.9798,,-28.9798,-28.9798,,raise_price,raise_price,,0.4935,0.4935,na
+nike shox ride 2||footwear||men's shoes||light smoke grey/medium ash/black/photon dust||men,US,190.0,,161.8031,161.8031,,28.1969,28.1969,,lower_price,lower_price,,0.5072,0.5072,na
+ナイキ スポーツウェア||apparel||メンズ tシャツ||バイオレットダスト||men,JP,23.4433,,52.5823,52.5823,,-29.139,-29.139,,raise_price,raise_price,,0.4908,0.4908,na
+"bobby witt, jr. kansas city royals||apparel||big kids' nike mlb stadium home jersey||white||boys",US,125.0,,96.8864,96.8864,,28.1136,28.1136,,lower_price,lower_price,,0.5087,0.5087,na
+jackson holliday baltimore orioles||apparel||big kids' nike mlb stadium home jersey||white||boys,US,125.0,,96.8864,96.8864,,28.1136,28.1136,,lower_price,lower_price,,0.5087,0.5087,na
+jose altuve houston astros||apparel||big kids' nike mlb stadium home jersey||white||boys,US,125.0,,96.8864,96.8864,,28.1136,28.1136,,lower_price,lower_price,,0.5087,0.5087,na
+nike sportswear commute||equipment||crossbody bag (1l)||blue force/blue force/work blue||men|women,US,35.0,,63.1745,63.1745,,-28.1745,-28.1745,,raise_price,raise_price,,0.5076,0.5076,na
+atlético madrid 2025/26 stadium home||apparel||men's nike dri-fit football replica shorts||hyper royal/white||men,FI,54.4891,,82.5695,82.5695,,-28.0804,-28.0804,,raise_price,raise_price,,0.5093,0.5093,na
+エア ジョーダン 1 レトロ high og||footwear||ウィメンズシューズ||ブラック/ホワイト/ミディアムグレー||women,JP,180.565,,151.5503,151.5503,,29.0147,29.0147,,lower_price,lower_price,,0.4929,0.4929,na
+ナイキ エア ズーム ペガサス 39||footwear||ジュニア ロード ランニングシューズ||ブラック/ホワイト/ホワイト||boys|girls,JP,73.7,,44.6853,44.6853,,29.0147,29.0147,,lower_price,lower_price,,0.4929,0.4929,na
+nike swift||apparel||women's dri-fit short-sleeve running top||olive flak||women,FI,49.0391,,78.042,78.042,,-29.0029,-29.0029,,raise_price,raise_price,,0.4931,0.4931,na
+jordan fly elite||equipment||batting gloves (1 pair)||blue||men|women,US,65.0,,35.9028,35.9028,,29.0972,29.0972,,lower_price,lower_price,,0.4915,0.4915,na
+nfl dallas cowboys (ceedee lamb)||apparel||men's game football jersey||white||men,US,130.0,,101.9088,101.9088,,28.0912,28.0912,,lower_price,lower_price,,0.5091,0.5091,na
+cleveland cavaliers hardwood classics||apparel||men's nike dri-fit nba short-sleeve jacket||college navy||men,US,145.0,,116.8813,116.8813,,28.1187,28.1187,,lower_price,lower_price,,0.5086,0.5086,na
+nike sportswear city side||apparel||men's fleece joggers||black/black||men,FI,70.8391,,99.0354,99.0354,,-28.1963,-28.1963,,raise_price,raise_price,,0.5072,0.5072,na
+nike mercurial vapor 16 pro||footwear||firm-ground low-top football boot||racer blue/white||men|women,SI,174.3891,,202.5133,202.5133,,-28.1242,-28.1242,,raise_price,raise_price,,0.5085,0.5085,na
+inter milan||apparel||older kids' nike football synthetic fill hooded jacket||black/anthracite/lyon blue||boys|girls,FI,103.5391,,75.4701,75.4701,,28.069,28.069,,lower_price,lower_price,,0.5095,0.5095,na
+cameron brink los angeles sparks explorer edition||apparel||big kids' nike wnba t-shirt||field purple||boys,US,32.0,,60.2074,60.2074,,-28.2074,-28.2074,,raise_price,raise_price,,0.507,0.507,na
+nike||apparel||younger kids' 2-piece beanie and gloves set||bubblegum||boys|girls,FI,25.0591,,53.1501,53.1501,,-28.091,-28.091,,raise_price,raise_price,,0.5091,0.5091,na
+nike air max fire||footwear||big kids' shoes||volt/barely volt/black/dark smoke grey||boys|girls,US,92.0,,120.0689,120.0689,,-28.0689,-28.0689,,raise_price,raise_price,,0.5095,0.5095,na
+nike air max fire||footwear||big kids' shoes||white/medium soft pink/black||boys|girls,US,92.0,,120.0689,120.0689,,-28.0689,-28.0689,,raise_price,raise_price,,0.5095,0.5095,na
+lsu primetime campus toned||apparel||men's nike college cuffed pom beanie||light purple||men,US,32.0,,61.1502,61.1502,,-29.1502,-29.1502,,raise_price,raise_price,,0.4906,0.4906,na
+nike kawa se||footwear||younger/older kids' slides||soft yellow/silt red/sapphire/light magenta||boys|girls,FI,32.6891,,60.8519,60.8519,,-28.1628,-28.1628,,raise_price,raise_price,,0.5078,0.5078,na
+nike flash||equipment||polarized sunglasses||moon particle/brown||women,US,110.0,,81.815,81.815,,28.185,28.185,,lower_price,lower_price,,0.5074,0.5074,na
+inter milan 2026 match se||apparel||men's nike acg dri-fit adv football authentic shirt||hyper blue/black/safety orange||men,SI,163.4891,,134.422,134.422,,29.0671,29.0671,,lower_price,lower_price,,0.492,0.492,na
+nike metro tek||footwear||men's shoes||white/summit white/off-white/metallic summit white||men,FI,87.1891,,116.3389,116.3389,,-29.1498,-29.1498,,raise_price,raise_price,,0.4906,0.4906,na
+ナイキ エア マックス プラス se||footwear||ウィメンズシューズ||ブラック/メタリックシルバー/ウルフグレー||women,JP,154.77,,125.5965,125.5965,,29.1735,29.1735,,lower_price,lower_price,,0.4902,0.4902,na
+ナイキ エア マックス プラス||footwear||ウィメンズシューズ||ファントム/ラッグドオレンジ/ピートモス/サターンゴールド||women,JP,154.77,,125.5965,125.5965,,29.1735,29.1735,,lower_price,lower_price,,0.4902,0.4902,na
+ナイキ エア マックス プラス||footwear||ウィメンズシューズ||ホワイト/ピュアプラチナム/ホワイト||women,JP,154.77,,125.5965,125.5965,,29.1735,29.1735,,lower_price,lower_price,,0.4902,0.4902,na
+ナイキ エア マックス プラス||footwear||ウィメンズシューズ||レッドセピア/シルトレッド/レブスターダスト||women,JP,154.77,,125.5965,125.5965,,29.1735,29.1735,,lower_price,lower_price,,0.4902,0.4902,na
+ナイキ スポーツウェア||apparel||メンズ ウーブン フロー ショートパンツ||ミッドナイトネイビー/ホワイト||men,JP,42.746,,71.9314,71.9314,,-29.1854,-29.1854,,raise_price,raise_price,,0.49,0.49,na
+nike air force 1 lv8 3||footwear||big kids' shoes||black/smoke grey/dark smoke grey||,US,90.0,,119.1141,119.1141,,-29.1141,-29.1141,,raise_price,raise_price,,0.4912,0.4912,na
+nike スポーツウェア||apparel||メンズ ウーブン トラックジャケット||ブラック/ダークスモークグレー/ユニバーシティレッド||men,JP,65.6533,,93.683,93.683,,-28.0297,-28.0297,,raise_price,raise_price,,0.5102,0.5102,na
+nike al8||footwear||women's shoes||photon dust/white/coconut milk/cannon||women,US,90.0,,118.0737,118.0737,,-28.0737,-28.0737,,raise_price,raise_price,,0.5094,0.5094,na
+nike tartan||apparel||men's loose golf cardigan||steam||men,FI,119.8891,,149.0326,149.0326,,-29.1435,-29.1435,,raise_price,raise_price,,0.4907,0.4907,na
+oregon sideline coach||apparel||men's nike therma-fit college long-sleeve t-shirt||apple green||men,US,85.0,,114.1851,114.1851,,-29.1851,-29.1851,,raise_price,raise_price,,0.49,0.49,na
+nike sportswear puffle||equipment||backpack (9l)||black/iron grey/black||men|women,FI,54.4891,,83.6444,83.6444,,-29.1553,-29.1553,,raise_price,raise_price,,0.4905,0.4905,na
+ジョーダン スポーツ クラシック||apparel||メンズパンツ||ブラック/インフラレッド23||men,JP,69.278,,98.4273,98.4273,,-29.1493,-29.1493,,raise_price,raise_price,,0.4906,0.4906,na
+nike sportswear lightweight synthetic fill||apparel||older kids' loose hooded jacket||cargo khaki/cargo khaki/white||boys|girls,FI,92.6391,,63.4423,63.4423,,29.1968,29.1968,,lower_price,lower_price,,0.4898,0.4898,na
+nike sportswear||apparel||women's mid-rise loose knee-length shorts||midnight navy/sail||women,FI,54.4891,,82.6564,82.6564,,-28.1673,-28.1673,,raise_price,raise_price,,0.5077,0.5077,na
+ナイキ ファントム 6 high エリート||footwear||ファームグラウンド サッカースパイク||クロム/ブラック||men|women,JP,238.051,,209.917,209.917,,28.134,28.134,,lower_price,lower_price,,0.5083,0.5083,na
+ナイキ エア マックス sc||footwear||メンズシューズ||ブラック/ブラック/ホワイト||men,JP,75.911,,105.1015,105.1015,,-29.1905,-29.1905,,raise_price,raise_price,,0.4899,0.4899,na
+nikeskims shine||apparel||women's v-neck tank top||nskm navy||women,FI,81.7391,,109.7791,109.7791,,-28.04,-28.04,,raise_price,raise_price,,0.51,0.51,na
+paris saint-germain||equipment||jordan academy gymsack||pure platinum/pure platinum||men|women,FI,30.5091,,59.6576,59.6576,,-29.1485,-29.1485,,raise_price,raise_price,,0.4906,0.4906,na
+nike air max 270||footwear||older kids' shoe||black/black||boys|girls,SI,130.7891,,101.6999,101.6999,,29.0892,29.0892,,lower_price,lower_price,,0.4916,0.4916,na
+nike premier 3||footwear||turf low-top soccer shoes||black/white||men|women,US,95.0,,123.1113,123.1113,,-28.1113,-28.1113,,raise_price,raise_price,,0.5087,0.5087,na
+paris saint-germain||apparel||big kids' nike soccer t-shirt||diffused blue||men|boys|women|girls,US,27.0,,55.1389,55.1389,,-28.1389,-28.1389,,raise_price,raise_price,,0.5082,0.5082,na
+nike diamond 2.0||equipment||baseball batter's hand guard (left-handed hitter)||wolf grey||men,US,40.0,,69.2019,69.2019,,-29.2019,-29.2019,,raise_price,raise_price,,0.4897,0.4897,na
+nike diamond 2.0||equipment||baseball batter's hand guard (right-handed hitter)||wolf grey||men,US,40.0,,69.2019,69.2019,,-29.2019,-29.2019,,raise_price,raise_price,,0.4897,0.4897,na
+nike swim legacy||equipment||comfort mirrored goggles||silver||men|women,US,29.0,,57.1444,57.1444,,-28.1444,-28.1444,,raise_price,raise_price,,0.5081,0.5081,na
+fc barcelona tech||apparel||men's nike soccer fleece joggers||imperial purple/midwest gold||men,US,130.0,,100.8695,100.8695,,29.1305,29.1305,,lower_price,lower_price,,0.4909,0.4909,na
+colorado rockies authentic collection||apparel||men’s nike therma mlb full-zip jacket||purple||men,US,135.0,,106.8889,106.8889,,28.1111,28.1111,,lower_price,lower_price,,0.5087,0.5087,na
+nike air||apparel||men's windrunner tracksuit jacket||light bone||men,FI,119.8891,,91.7946,91.7946,,28.0945,28.0945,,lower_price,lower_price,,0.509,0.509,na
+nike||apparel||メンズ dri-fit ロングスリーブ トップ||ダークチームレッド||men,JP,35.376,,63.487,63.487,,-28.111,-28.111,,raise_price,raise_price,,0.5087,0.5087,na
+nike initiator||footwear||women's shoes||light orewood brown/phantom/sail||women,FI,87.1891,,116.3727,116.3727,,-29.1836,-29.1836,,raise_price,raise_price,,0.49,0.49,na
+nike dri-fit academy 23||apparel||women's football shorts||black/white/white||women,SI,27.2391,,56.4643,56.4643,,-29.2252,-29.2252,,raise_price,raise_price,,0.4893,0.4893,na
+nike dri-fit academy||apparel||women's short-sleeve football top||black/white/white||women,SI,27.2391,,56.4643,56.4643,,-29.2252,-29.2252,,raise_price,raise_price,,0.4893,0.4893,na
+"ルカ .77 pf ""bloodline""||footwear||バスケットボールシューズ||ホワイト/ブラック/ジムレッド||men",JP,88.44,,116.4954,116.4954,,-28.0554,-28.0554,,raise_price,raise_price,,0.5097,0.5097,na
+jordan sport||apparel||men's dri-fit golf long-sleeve mock neck sweatshirt||olive grey/anthracite||men,US,80.0,,109.1298,109.1298,,-29.1298,-29.1298,,raise_price,raise_price,,0.4909,0.4909,na
+"ja||apparel||men's dri-fit 6"" icon basketball shorts||bleached turquoise/cave stone/bleached turquoise||men",US,50.0,,79.1831,79.1831,,-29.1831,-29.1831,,raise_price,raise_price,,0.49,0.49,na
+jordan||apparel||big kids' filled puffer vest||black||boys,US,75.0,,45.7931,45.7931,,29.2069,29.2069,,lower_price,lower_price,,0.4896,0.4896,na
+ナイキ コート ボロー low 2||footwear||ベビーシューズ||ホワイト/ホワイト/ホワイト||boys|girls,JP,36.113,,64.1241,64.1241,,-28.0111,-28.0111,,raise_price,raise_price,,0.5105,0.5105,na
+jordan||apparel||younger kids' jersey 3-piece french terry full-zip set||pink foam||girls,SI,81.7391,,53.7609,53.7609,,27.9782,27.9782,,lower_price,lower_price,,0.5111,0.5111,na
+nike surge select||equipment||7075 alloy a/m lacrosse handle||black||men,US,75.0,,104.1888,104.1888,,-29.1888,-29.1888,,raise_price,raise_price,,0.4899,0.4899,na
+nike sportswear essential||apparel||women's t-shirt (plus size)||black/white||women,US,30.0,,58.0657,58.0657,,-28.0657,-28.0657,,raise_price,raise_price,,0.5095,0.5095,na
+nike dri-fit park 7 jby||apparel||women's football shirt||tour yellow/black||women,SI,25.0591,,53.1357,53.1357,,-28.0766,-28.0766,,raise_price,raise_price,,0.5093,0.5093,na
+ジョーダン||apparel||ジュニア カラーブロック ウィンドジャケット||ジムレッド||boys,JP,66.33,,37.1714,37.1714,,29.1586,29.1586,,lower_price,lower_price,,0.4904,0.4904,na
+ナイキ ユーティリティ エリート||equipment||バックパック (37l)||ミネラルスレート/ミネラルスレート/スチーム||men|women,JP,106.128,,76.9099,76.9099,,29.2181,29.2181,,lower_price,lower_price,,0.4894,0.4894,na
+ナイキ ファントム 6 high エリート||footwear||ファームグラウンド サッカースパイク||レーサーブルー/ダークオブシディアン||men|women,JP,238.051,,210.0461,210.0461,,28.0049,28.0049,,lower_price,lower_price,,0.5106,0.5106,na
+debinha de oliveira kc current 2025 stadium away||apparel||women's nike dri-fit nwsl replica jersey||hyper turquoise||women,US,130.0,,101.9567,101.9567,,28.0433,28.0433,,lower_price,lower_price,,0.5099,0.5099,na
+temwa chaŵinga kc current 2025 stadium away||apparel||women's nike dri-fit nwsl replica jersey||hyper turquoise||women,US,130.0,,101.9567,101.9567,,28.0433,28.0433,,lower_price,lower_price,,0.5099,0.5099,na
+nike kawa se||footwear||younger/older kids' slides||soft yellow/silt red/sapphire/light magenta||boys|girls,SI,32.6891,,60.7159,60.7159,,-28.0268,-28.0268,,raise_price,raise_price,,0.5102,0.5102,na
+エア フォース 1 '07||footwear||メンズシューズ||ホワイト/ホワイト/ミッドナイトネイビー||men,JP,110.55,,139.756,139.756,,-29.206,-29.206,,raise_price,raise_price,,0.4896,0.4896,na
+nike air max 95 'big bubble'||footwear||older kids' shoes||black/university red/white/smoke grey||boys|girls,SI,152.5891,,123.4311,123.4311,,29.158,29.158,,lower_price,lower_price,,0.4904,0.4904,na
+cr7 academy||apparel||older kids' dri-fit football shorts||volt/black/black||boys|girls,SI,38.1391,,67.3507,67.3507,,-29.2116,-29.2116,,raise_price,raise_price,,0.4895,0.4895,na
+phoenix suns flight fleece||apparel||women's jordan nba satin-lined pullover hoodie||purple smoke/dark raisin||women,US,110.0,,80.854,80.854,,29.146,29.146,,lower_price,lower_price,,0.4906,0.4906,na
+ナイキ スポーツウェア||apparel||ジュニア tシャツ||ココナッツミルク||boys|girls,JP,19.4233,,47.4988,47.4988,,-28.0755,-28.0755,,raise_price,raise_price,,0.5093,0.5093,na
+air jordan||apparel||women's tank top||black/dark smoke grey/black||women,SI,108.9891,,79.808,79.808,,29.1811,29.1811,,lower_price,lower_price,,0.49,0.49,na
+ナイキ ファスト||apparel||ウィメンズ dri-fit ショートスリーブ ランニングトップ||ブラック||women,JP,34.639,,62.6536,62.6536,,-28.0146,-28.0146,,raise_price,raise_price,,0.5104,0.5104,na
+philadelphia phillies home limited||apparel||big kids' nike mlb jersey||white||boys,US,100.0,,72.0185,72.0185,,27.9815,27.9815,,lower_price,lower_price,,0.511,0.511,na
+phoenix suns essentials||apparel||men's nike nba t-shirt||new orchid||men,US,37.0,,66.2104,66.2104,,-29.2104,-29.2104,,raise_price,raise_price,,0.4895,0.4895,na
+nike zoom vomero 5||footwear||women's shoes with reflective accents||black/court purple/hyper grape/black||women,US,170.0,,142.0133,142.0133,,27.9867,27.9867,,lower_price,lower_price,,0.5109,0.5109,na
+ナイキ エア マックス プラス||footwear||ウィメンズシューズ||ホワイト/ピンクフォーム/ブラック/ファイヤーピンク||women,JP,154.77,,125.5539,125.5539,,29.2161,29.2161,,lower_price,lower_price,,0.4894,0.4894,na
+chicago bulls club courtside||apparel||men's nike nba fleece shorts||university red/sail||men,SI,65.3891,,94.5873,94.5873,,-29.1982,-29.1982,,raise_price,raise_price,,0.4897,0.4897,na
+fc barcelona air||apparel||big kids' nike soccer pullover hoodie||smoke grey/light smoke grey||boys|girls,US,90.0,,60.778,60.778,,29.222,29.222,,lower_price,lower_price,,0.4893,0.4893,na
+nike sb||equipment||reversible textured stretch web belt||black||men|women,US,25.0,,54.2338,54.2338,,-29.2338,-29.2338,,raise_price,raise_price,,0.4891,0.4891,na
+nike blazer low by you||footwear||custom women's shoes||multi-colour/multi-colour/multi-colour/multi-colour||women,FI,119.8891,,147.8919,147.8919,,-28.0028,-28.0028,,raise_price,raise_price,,0.5106,0.5106,na
+"nike sportswear classic||apparel||women's high-waisted 8"" biker shorts||black/sail||women",US,37.0,,65.0302,65.0302,,-28.0302,-28.0302,,raise_price,raise_price,,0.5101,0.5101,na
+houston dash||apparel||nike dri-fit nwsl visor||white||men|women,US,28.0,,57.2756,57.2756,,-29.2756,-29.2756,,raise_price,raise_price,,0.4884,0.4884,na
+colorado rockies authentic collection city connect||apparel||men's nike therma mlb pullover hoodie||purple||men,US,95.0,,122.948,122.948,,-27.948,-27.948,,raise_price,raise_price,,0.5116,0.5116,na
+ジョーダン スポーツ||apparel||メンズ dri-fit ゴルフ ロングスリーブ モックネック スウェットシャツ||オリーブグレー/アンスラサイト||men,JP,79.596,,108.8055,108.8055,,-29.2095,-29.2095,,raise_price,raise_price,,0.4895,0.4895,na
+boston celtics statement edition||apparel||men's jordan dri-fit nba swingman jersey||black||men,FI,114.4391,,85.2237,85.2237,,29.2154,29.2154,,lower_price,lower_price,,0.4894,0.4894,na
+stephen curry golden state warriors 2024/25 statement edition||apparel||men's jordan dri-fit nba swingman jersey||black||men,FI,114.4391,,85.2237,85.2237,,29.2154,29.2154,,lower_price,lower_price,,0.4894,0.4894,na
+amon-ra st. brown detroit lions||apparel||men's nike nfl game football jersey||white||men,US,130.0,,157.9199,157.9199,,-27.9199,-27.9199,,raise_price,raise_price,,0.5121,0.5121,na
+c.j. stroud houston texans||apparel||men's nike nfl game football jersey||white||men,US,130.0,,157.9199,157.9199,,-27.9199,-27.9199,,raise_price,raise_price,,0.5121,0.5121,na
+garrett wilson new york jets||apparel||men's nike nfl game football jersey||white||men,US,130.0,,157.9199,157.9199,,-27.9199,-27.9199,,raise_price,raise_price,,0.5121,0.5121,na
+jayden daniels washington commanders||apparel||men's nike nfl game fashion jersey||white||men,US,130.0,,157.9199,157.9199,,-27.9199,-27.9199,,raise_price,raise_price,,0.5121,0.5121,na
+kirk cousins atlanta falcons||apparel||men's nike nfl game football jersey||white||men,US,130.0,,157.9199,157.9199,,-27.9199,-27.9199,,raise_price,raise_price,,0.5121,0.5121,na
+patrick surtain ii denver broncos||apparel||men's nike nfl game football jersey||white||men,US,130.0,,157.9199,157.9199,,-27.9199,-27.9199,,raise_price,raise_price,,0.5121,0.5121,na
+nike club||equipment||phone bag||parachute beige/black/white||men|women,US,30.0,,59.2687,59.2687,,-29.2687,-29.2687,,raise_price,raise_price,,0.4885,0.4885,na
+nike challenger||apparel||men's dri-fit 18cm (approx.) unlined running shorts||black/black/black||men,SI,38.1391,,67.3898,67.3898,,-29.2507,-29.2507,,raise_price,raise_price,,0.4888,0.4888,na
+paris saint-germain 2026 stadium night edition||apparel||men's jordan dri-fit soccer long-sleeve replica jersey||black/white/black||men,US,115.0,,85.7194,85.7194,,29.2806,29.2806,,lower_price,lower_price,,0.4883,0.4883,na
+ジョーダン mvp||apparel||メンズ ジャンプマン tシャツ||ブラック/セイル/セイル||men,JP,33.165,,62.4876,62.4876,,-29.3226,-29.3226,,raise_price,raise_price,,0.4876,0.4876,na
+nike||apparel||women's v-neck long-sleeve golf top||black/black/sail||women,US,110.0,,82.0367,82.0367,,27.9633,27.9633,,lower_price,lower_price,,0.5113,0.5113,na
+air jordan 4 retro||footwear||older kids' shoes||white/half blue/vapour green/medium soft pink||boys|girls,FI,163.4891,,135.5313,135.5313,,27.9578,27.9578,,lower_price,lower_price,,0.5114,0.5114,na
+nike sportswear club||apparel||men's polo||ghost/ghost/white||men,FI,49.0391,,78.2716,78.2716,,-29.2325,-29.2325,,raise_price,raise_price,,0.4891,0.4891,na
+ナイキ dri-fit ビクトリー||apparel||ウィメンズ ゴルフポロ||ブラック/ホワイト||women,JP,55.275,,84.5374,84.5374,,-29.2624,-29.2624,,raise_price,raise_price,,0.4886,0.4886,na
+nike acg apex||apparel||bucket hat||black/black/black||men|women,FI,43.5891,,72.8455,72.8455,,-29.2564,-29.2564,,raise_price,raise_price,,0.4887,0.4887,na
+fc バルセロナ アカデミー プロ ホーム||apparel||メンズ ナイキ dri-fit サッカー プレマッチ ショートスリーブ トップ||ディープロイヤルブルー/ディープロイヤルブルー/ノーブルレッド/ミッドウェストゴールド||men,JP,64.119,,92.0985,92.0985,,-27.9795,-27.9795,,raise_price,raise_price,,0.511,0.511,na
+ナイキ アルファフライ 3 グラム||footwear||ウィメンズ ロード レーシングシューズ||オレンジパルス/パープルダイナスティー/エレクトリックグリーン/ブラック||women,JP,271.216,,241.9178,241.9178,,29.2982,29.2982,,lower_price,lower_price,,0.488,0.488,na
+ナイキ スポーツウェア||apparel||ウィメンズ オーバーサイズド トラックジャケット||バストグレー/サミットホワイト/ブラック/ブラック||women,JP,106.865,,78.9512,78.9512,,27.9138,27.9138,,lower_price,lower_price,,0.5122,0.5122,na
+japan national baseball team 2026 world baseball classic||apparel||women's nike cropped 1/2-zip crew||navy||women,US,95.0,,65.69,65.69,,29.31,29.31,,lower_price,lower_price,,0.4878,0.4878,na
+nike||apparel||men's therma-fit fleece joggers||black||men,FI,76.2891,,48.3645,48.3645,,27.9246,27.9246,,lower_price,lower_price,,0.512,0.512,na
+dallas mavericks essential city edition||apparel||men's nike nba long-sleeve t-shirt||black||men,US,42.0,,71.2739,71.2739,,-29.2739,-29.2739,,raise_price,raise_price,,0.4884,0.4884,na
+denver nuggets essential city edition||apparel||men's nike nba long-sleeve t-shirt||black||men,US,42.0,,71.2739,71.2739,,-29.2739,-29.2739,,raise_price,raise_price,,0.4884,0.4884,na
+la lakers essential city edition||apparel||men's nike nba long-sleeve t-shirt||black||men,US,42.0,,71.2739,71.2739,,-29.2739,-29.2739,,raise_price,raise_price,,0.4884,0.4884,na
+phoenix suns essential city edition||apparel||men's nike nba long-sleeve t-shirt||black||men,US,42.0,,71.2739,71.2739,,-29.2739,-29.2739,,raise_price,raise_price,,0.4884,0.4884,na
+toronto raptors essential city edition||apparel||men's nike nba long-sleeve t-shirt||black||men,US,42.0,,71.2739,71.2739,,-29.2739,-29.2739,,raise_price,raise_price,,0.4884,0.4884,na
+エア ジョーダン 1 mid se||footwear||メンズシューズ||サミットホワイト/ブラック/ブルーチル||men,JP,136.345,,165.5828,165.5828,,-29.2378,-29.2378,,raise_price,raise_price,,0.489,0.489,na
+nike vapor pro 3||footwear||women's clay court tennis shoes||black/white||women,FI,141.6891,,113.8083,113.8083,,27.8808,27.8808,,lower_price,lower_price,,0.5128,0.5128,na
+nike club||apparel||men's basketball t-shirt||black||men,SI,38.1391,,66.0797,66.0797,,-27.9406,-27.9406,,raise_price,raise_price,,0.5117,0.5117,na
+nike hyperset 2||footwear||indoor court shoes||white/team crimson/white||men|women,US,135.0,,107.114,107.114,,27.886,27.886,,lower_price,lower_price,,0.5127,0.5127,na
+philadelphia phillies authentic collection||apparel||men’s nike therma mlb full-zip jacket||royal||men,US,135.0,,107.0377,107.0377,,27.9623,27.9623,,lower_price,lower_price,,0.5113,0.5113,na
+dallas mavericks zoned||apparel||men's nike dri-fit nba pants||game royal/college navy/white||men,US,115.0,,85.7506,85.7506,,29.2494,29.2494,,lower_price,lower_price,,0.4888,0.4888,na
+jordan sport essentials||apparel||women's padded adjustable sports bra||cargo khaki/cargo khaki/vintage lichen/vintage lichen||women,FI,43.5891,,71.4804,71.4804,,-27.8913,-27.8913,,raise_price,raise_price,,0.5126,0.5126,na
+nike shox tl fade||footwear||women's shoes||court purple/metallic black/peony/hot lava||women,US,180.0,,152.0159,152.0159,,27.9841,27.9841,,lower_price,lower_price,,0.5109,0.5109,na
+ナイキ ファントム 6 high エリート lv8||footwear||ファームグラウンド サッカースパイク||ミディアムアッシュ/ブラック/ゴールドアンバー||men|women,JP,238.051,,210.1434,210.1434,,27.9076,27.9076,,lower_price,lower_price,,0.5123,0.5123,na
+"nike mercurial superfly 10 academy ""kylian mbappé""||footwear||mg high-top soccer cleats||plum eclipse/metallic silver||men|women",US,105.0,,132.9567,132.9567,,-27.9567,-27.9567,,raise_price,raise_price,,0.5114,0.5114,na
+ナイキ コート ビジョン low||footwear||メンズシューズ||タクシー/ホワイト/ブラック||men,JP,58.96,,86.8675,86.8675,,-27.9075,-27.9075,,raise_price,raise_price,,0.5123,0.5123,na
+ナイキ コート ビジョン low||footwear||メンズシューズ||ユニバーシティレッド/ホワイト/ブラック||men,JP,58.96,,86.8675,86.8675,,-27.9075,-27.9075,,raise_price,raise_price,,0.5123,0.5123,na
+ナイキ ショックス r4||footwear||メンズシューズ||ブラック/メタリックシルバー/パープルダイナスティー/アンスラサイト||men,JP,142.241,,112.9799,112.9799,,29.2611,29.2611,,lower_price,lower_price,,0.4886,0.4886,na
+ナイキ エア マックス dn8||footwear||ウィメンズシューズ||ブラック/ピンクフォーム/プレイフルピンク||women,JP,169.51,,140.207,140.207,,29.303,29.303,,lower_price,lower_price,,0.4879,0.4879,na
+ナイキ エア マックス dn8||footwear||ウィメンズシューズ||ユニバーシティレッド/タフレッド/チームレッド/ユニバーシティレッド||women,JP,169.51,,140.207,140.207,,29.303,29.303,,lower_price,lower_price,,0.4879,0.4879,na
+jordan sport||apparel||men's golf button-down||sail||men,SI,163.4891,,135.6253,135.6253,,27.8638,27.8638,,lower_price,lower_price,,0.5131,0.5131,na
+jordan||apparel||icon card case||black||men,FI,54.4891,,83.834,83.834,,-29.3449,-29.3449,,raise_price,raise_price,,0.4872,0.4872,na
+nike therma-fit adv repel aeroloft||apparel||men's down running vest||volt/reflective silver||men,US,190.0,,162.0493,162.0493,,27.9507,27.9507,,lower_price,lower_price,,0.5115,0.5115,na
+fc barcelona 2025/26 match fourth||apparel||men's nike dri-fit adv football authentic shirt||gym blue/gym blue/salsa red/opti yellow||men,FI,163.4891,,135.6257,135.6257,,27.8634,27.8634,,lower_price,lower_price,,0.5131,0.5131,na
+nike charge suede||footwear||men's shoes||black/black/white||men,FI,70.8391,,98.7567,98.7567,,-27.9176,-27.9176,,raise_price,raise_price,,0.5121,0.5121,na
+kobe ix elite low em protro||footwear||basketball shoes||black/white/university gold||men|women,US,190.0,,160.6917,160.6917,,29.3083,29.3083,,lower_price,lower_price,,0.4878,0.4878,na
+nike heritage 2.0 after dark tour||equipment||tote bag (22l)||black/reflective silver/metallic silver||men|women,SI,32.6891,,61.9732,61.9732,,-29.2841,-29.2841,,raise_price,raise_price,,0.4882,0.4882,na
+kobe||apparel||men's winterized basketball jacket||cannon/light silver/white||men,FI,130.7891,,102.9046,102.9046,,27.8845,27.8845,,lower_price,lower_price,,0.5127,0.5127,na
+tennessee volunteers||apparel||men's nike college limited baseball jersey||natural||men,US,135.0,,105.6806,105.6806,,29.3194,29.3194,,lower_price,lower_price,,0.4876,0.4876,na
+jordan||equipment||big kids' foam trucker hat||gym red||boys|girls,US,25.0,,52.8622,52.8622,,-27.8622,-27.8622,,raise_price,raise_price,,0.5131,0.5131,na
+chelsea f.c.||apparel||men's nike football t-shirt||pitch blue||boys|girls,FI,27.2391,,55.1228,55.1228,,-27.8837,-27.8837,,raise_price,raise_price,,0.5127,0.5127,na
+paris saint-germain swoosh||apparel||men's nike football t-shirt||midnight navy||boys|girls,FI,27.2391,,55.1228,55.1228,,-27.8837,-27.8837,,raise_price,raise_price,,0.5127,0.5127,na
+ナイキ ゼンビー||apparel||ウィメンズ dri-fit フルジップ ジャケット||タトゥー/ホワイト||women,JP,97.284,,67.8987,67.8987,,29.3853,29.3853,,lower_price,lower_price,,0.4865,0.4865,na
+f.c. barcelona||apparel||older kids' nike football t-shirt||smoke grey||boys|girls,SI,30.5091,,58.3492,58.3492,,-27.8401,-27.8401,,raise_price,raise_price,,0.5135,0.5135,na
+ナイキ アンリミテッド||apparel||メンズ レペル バーサタイル ジャケット||ブラック/ブラック||men,JP,103.18,,75.3508,75.3508,,27.8292,27.8292,,lower_price,lower_price,,0.5137,0.5137,na
+converse chuck taylor all star high top||footwear||little kids' shoe||pink||boys|girls,US,40.0,,67.8563,67.8563,,-27.8563,-27.8563,,raise_price,raise_price,,0.5132,0.5132,na
+nike dna||apparel||men's dri-fit basketball shorts||chlorophyll/black||men,US,60.0,,89.2887,89.2887,,-29.2887,-29.2887,,raise_price,raise_price,,0.4881,0.4881,na
+nike air max 95 big bubble||footwear||men's shoes||light smoke grey/green strike/white/black||men,US,190.0,,162.133,162.133,,27.867,27.867,,lower_price,lower_price,,0.513,0.513,na
+nike club||apparel||men's oversized woven track pants||light smoke grey/white/black/white||men,US,100.0,,72.155,72.155,,27.845,27.845,,lower_price,lower_price,,0.5134,0.5134,na
+nike||apparel||women's fleece tear-away basketball pants||midnight navy||women,US,100.0,,70.6517,70.6517,,29.3483,29.3483,,lower_price,lower_price,,0.4871,0.4871,na
+jordan||apparel||men's draft trousers||old royal/black/yellow pulse||men,FI,130.7891,,102.879,102.879,,27.9101,27.9101,,lower_price,lower_price,,0.5122,0.5122,na
+ナイキ スポーツウェア||apparel||ウィメンズ ルーズ tシャツ||ホワイト||women,JP,36.1733,,64.0888,64.0888,,-27.9155,-27.9155,,raise_price,raise_price,,0.5121,0.5121,na
+kobe||apparel||women's dri-fit cropped basketball t-shirt||court purple||women,US,45.0,,74.4143,74.4143,,-29.4143,-29.4143,,raise_price,raise_price,,0.486,0.486,na
+british & irish lions||apparel||unisex nike club cap||obsidian/white||men|women,FI,30.5091,,58.3156,58.3156,,-27.8065,-27.8065,,raise_price,raise_price,,0.5141,0.5141,na
+"nike acg ""lava loops""||apparel||men's dri-fit adv 1/2-length trail running tights||black/summit white||men",US,95.0,,122.8173,122.8173,,-27.8173,-27.8173,,raise_price,raise_price,,0.5139,0.5139,na
+alabama campus primetime||apparel||men's nike dri-fit college t-shirt||olive||men,US,40.0,,67.8824,67.8824,,-27.8824,-27.8824,,raise_price,raise_price,,0.5127,0.5127,na
+ナイキ クラブ フリース||apparel||メンズ オーバーサイズド フレンチテリー クルー||ブラック/ブラック/ホワイト||men,JP,53.801,,81.6616,81.6616,,-27.8606,-27.8606,,raise_price,raise_price,,0.5131,0.5131,na
+ナイキ クラブ||apparel||メンズ フリース クルー||ダークグレーヘザー/ホワイト||men,JP,53.801,,81.6616,81.6616,,-27.8606,-27.8606,,raise_price,raise_price,,0.5131,0.5131,na
+nike heritage 2.0 after dark tour||equipment||tote bag (22l)||black/reflective silver/metallic silver||men|women,FI,32.6891,,62.0126,62.0126,,-29.3235,-29.3235,,raise_price,raise_price,,0.4875,0.4875,na
+new york mets authentic collection||apparel||men's nike therma-fit mlb full-zip hooded jacket||rush blue||men,US,135.0,,105.6646,105.6646,,29.3354,29.3354,,lower_price,lower_price,,0.4873,0.4873,na
+ナイキ クラブ||apparel||メンズ ショートパンツ||ブラック/ブラック||men,JP,69.278,,97.0948,97.0948,,-27.8168,-27.8168,,raise_price,raise_price,,0.5139,0.5139,na
+wnba 2025 all-star weekend||apparel||men's nike t-shirt||navy||men,US,35.0,,62.8818,62.8818,,-27.8818,-27.8818,,raise_price,raise_price,,0.5127,0.5127,na
+nike premium||equipment||hip pack (8l)||black/black/anthracite||men|women,FI,43.5891,,71.4383,71.4383,,-27.8492,-27.8492,,raise_price,raise_price,,0.5133,0.5133,na
+nike sportswear air max 95||apparel||t-shirt||light photo blue||men,US,40.0,,67.887,67.887,,-27.887,-27.887,,raise_price,raise_price,,0.5126,0.5126,na
+nike mercurial superfly 10 academy 'kylian mbappé'||footwear||ag high-top football boot||plum eclipse/metallic silver||men|women,FI,108.9891,,136.865,136.865,,-27.8759,-27.8759,,raise_price,raise_price,,0.5128,0.5128,na
+nike mercurial superfly 10 academy 'kylian mbappé'||footwear||turf high-top football shoes||plum eclipse/metallic silver||men|women,FI,108.9891,,136.865,136.865,,-27.8759,-27.8759,,raise_price,raise_price,,0.5128,0.5128,na
+kobe||apparel||men's fleece basketball trousers||black/white||men,FI,108.9891,,81.1947,81.1947,,27.7944,27.7944,,lower_price,lower_price,,0.5143,0.5143,na
+nike air max bolt||footwear||women's shoes||white/white/black||women,US,95.0,,122.8377,122.8377,,-27.8377,-27.8377,,raise_price,raise_price,,0.5135,0.5135,na
+エア ジョーダン 6 レトロ low||footwear||ウィメンズシューズ||ブラック/ブラック/ブラック||men|women,JP,206.36,,176.9956,176.9956,,29.3644,29.3644,,lower_price,lower_price,,0.4868,0.4868,na
+nike sb||apparel||max90 skate t-shirt||soft yellow||men|women,SI,43.5891,,72.9354,72.9354,,-29.3463,-29.3463,,raise_price,raise_price,,0.4871,0.4871,na
+nike||apparel||men's dri-fit 20.5cm (approx.) basketball shorts||white/black/white/black||men,SI,38.1391,,67.5094,67.5094,,-29.3703,-29.3703,,raise_price,raise_price,,0.4867,0.4867,na
+chelsea f.c.||apparel||older kids' nike football t-shirt||cool grey||boys|girls,FI,30.5091,,58.368,58.368,,-27.8589,-27.8589,,raise_price,raise_price,,0.5131,0.5131,na
+nike solo swoosh||apparel||men's fleece hoodie||light khaki||men,SI,130.7891,,101.407,101.407,,29.3821,29.3821,,lower_price,lower_price,,0.4865,0.4865,na
+"ナイキ acg ""wildsee""||apparel||メンズ dri-fit ショートスリーブ インナー トップ||バルチックブルー/オーロラブルー/サミットホワイト||men",JP,55.275,,84.6328,84.6328,,-29.3578,-29.3578,,raise_price,raise_price,,0.4869,0.4869,na
+nike alphafly 3||footwear||men's road racing shoes||multi-color/volt/white/black||men,US,305.0,,275.6062,275.6062,,29.3938,29.3938,,lower_price,lower_price,,0.4863,0.4863,na
+usmnt 2026 stadium home||apparel||older kids' nike dri-fit football replica shirt||sail/midnight navy/midnight navy||boys|girls,FI,92.6391,,64.8573,64.8573,,27.7818,27.7818,,lower_price,lower_price,,0.5145,0.5145,na
+ナイキ スポーツウェア||apparel||ウィメンズ ルーズ ショートスリーブ グラフィック tシャツ||ホワイト||women,JP,39.061,,68.4357,68.4357,,-29.3747,-29.3747,,raise_price,raise_price,,0.4866,0.4866,na
+ナイキ クラブ||apparel||メンズ オープンヘム フリース パンツ||ダークグレーヘザー/ライトスモークグレー/ホワイト||men,JP,53.801,,81.5933,81.5933,,-27.7923,-27.7923,,raise_price,raise_price,,0.5143,0.5143,na
+ナイキ クラブ||apparel||メンズジョガー||ブラック/ブラック/ホワイト||men,JP,53.801,,81.5933,81.5933,,-27.7923,-27.7923,,raise_price,raise_price,,0.5143,0.5143,na
+chelsea f.c. 2025/26 stadium third||apparel||women's nike dri-fit total 90 football replica shirt||black/field silver/game royal/field silver||women,FI,108.9891,,79.5725,79.5725,,29.4166,29.4166,,lower_price,lower_price,,0.4859,0.4859,na
+jordan||apparel||older kids' chicago trousers||archaeo brown||boys,FI,90.4591,,62.6291,62.6291,,27.83,27.83,,lower_price,lower_price,,0.5136,0.5136,na
+jordan||apparel||men's milan t-shirt||white/black||men,FI,32.6891,,62.1296,62.1296,,-29.4405,-29.4405,,raise_price,raise_price,,0.4855,0.4855,na
+jordan||apparel||men's paris t-shirt||white/black||men,FI,32.6891,,62.1296,62.1296,,-29.4405,-29.4405,,raise_price,raise_price,,0.4855,0.4855,na
+nike miler||apparel||men's dri-fit uv long-sleeve running top||grey fog/particle grey/heather||men,US,47.0,,74.7377,74.7377,,-27.7377,-27.7377,,raise_price,raise_price,,0.5153,0.5153,na
+ナイキ エア マックス 90||footwear||メンズシューズ||ウルフグレー/ブラック/ホワイト/ブラック||men,JP,110.55,,138.3578,138.3578,,-27.8078,-27.8078,,raise_price,raise_price,,0.514,0.514,na
+ナイキ エア マックス 90||footwear||メンズシューズ||ホワイト/ホワイト/ユニバーシティレッド||men,JP,110.55,,138.3578,138.3578,,-27.8078,-27.8078,,raise_price,raise_price,,0.514,0.514,na
+nike sportswear chill knit||apparel||women's t-shirt||team crimson/white||women,US,32.0,,59.7806,59.7806,,-27.7806,-27.7806,,raise_price,raise_price,,0.5145,0.5145,na
+nocta||apparel||northstar nylon tracksuit jacket||black/black/white||men,FI,147.1391,,117.6506,117.6506,,29.4885,29.4885,,lower_price,lower_price,,0.4847,0.4847,na
+ナイキ インターナショナリスト by you||footwear||カスタム メンズシューズ||マルチカラー/マルチカラー/マルチカラー||men,JP,114.235,,142.0101,142.0101,,-27.7751,-27.7751,,raise_price,raise_price,,0.5146,0.5146,na
+ナイキ エア マックス フェニックス||footwear||リトルキッズシューズ||ブラック/ホワイト/メタリックゴールド||boys|girls,JP,92.125,,62.7276,62.7276,,29.3974,29.3974,,lower_price,lower_price,,0.4862,0.4862,na
+fc バルセロナ アカデミー プロ サード||apparel||メンズ ナイキ dri-fit サッカー プレマッチ トップ||ミッドナイトネイビー/ブライトマンゴー||men,JP,64.119,,91.9263,91.9263,,-27.8073,-27.8073,,raise_price,raise_price,,0.514,0.514,na
+コービー||apparel||メンズ プリーツ パンツ||セイル/ブラック||men,JP,126.027,,98.2791,98.2791,,27.7479,27.7479,,lower_price,lower_price,,0.5151,0.5151,na
+nocta||apparel||nocta fleece cs sweatpants||black/white||men,US,110.0,,82.2414,82.2414,,27.7586,27.7586,,lower_price,lower_price,,0.5149,0.5149,na
+air max dn x レゴ® コレクション||footwear||ジュニアシューズ||ツアーイエロー/ボルト/ラッシュレッド/ブラック||,JP,132.66,,103.1719,103.1719,,29.4881,29.4881,,lower_price,lower_price,,0.4847,0.4847,na
+nike swoosh||apparel||big kids' baseball t-shirt||white||boys,US,25.0,,54.4698,54.4698,,-29.4698,-29.4698,,raise_price,raise_price,,0.485,0.485,na
+nike acg vista peak||equipment||terrain tint||photon dust/brown||men|women,US,219.0,,189.5728,189.5728,,29.4272,29.4272,,lower_price,lower_price,,0.4857,0.4857,na
+nike acg vista vert||equipment||terrain tint||college grey||men|women,US,219.0,,189.5728,189.5728,,29.4272,29.4272,,lower_price,lower_price,,0.4857,0.4857,na
+nikegrip vapor strike||equipment||football crew socks||black/white||men|women,FI,35.9591,,63.7173,63.7173,,-27.7582,-27.7582,,raise_price,raise_price,,0.5149,0.5149,na
+inter milan||apparel||older kids' nike football synthetic fill hooded jacket||black/anthracite/lyon blue||boys|girls,SI,103.5391,,74.1003,74.1003,,29.4388,29.4388,,lower_price,lower_price,,0.4855,0.4855,na
+ジョーダン スポーツ||apparel||ウィメンズ dri-fit グラフィック tシャツ||ブラック/ルミナスグリーン||women,JP,36.85,,66.2766,66.2766,,-29.4266,-29.4266,,raise_price,raise_price,,0.4857,0.4857,na
+nike sportswear||apparel||women's short-sleeve graphic t-shirt||black/white||women,US,30.0,,57.7308,57.7308,,-27.7308,-27.7308,,raise_price,raise_price,,0.5154,0.5154,na
+jordan flight court||footwear||men's shoes||black/aura/dark grey||men,SI,119.8891,,147.6738,147.6738,,-27.7847,-27.7847,,raise_price,raise_price,,0.5144,0.5144,na
+nike tempo||apparel||women's medium-support cropped sports bra tank top||black/black||women,FI,46.8591,,74.6546,74.6546,,-27.7955,-27.7955,,raise_price,raise_price,,0.5142,0.5142,na
+jordan||apparel||older kids' post up open cargo trousers||black||girls,SI,70.8391,,43.0814,43.0814,,27.7577,27.7577,,lower_price,lower_price,,0.5149,0.5149,na
+minnesota timberwolves essential city edition||apparel||men's nike nba max90 t-shirt||vivid purple/purple dynasty||men,US,50.0,,79.4689,79.4689,,-29.4689,-29.4689,,raise_price,raise_price,,0.485,0.485,na
+nike||apparel||men's max90 long-sleeve basketball t-shirt||black||men,US,50.0,,79.4446,79.4446,,-29.4446,-29.4446,,raise_price,raise_price,,0.4854,0.4854,na
+nike dri-fit park 7 jby||apparel||women's football shirt||tour yellow/black||women,FI,25.0591,,54.4976,54.4976,,-29.4385,-29.4385,,raise_price,raise_price,,0.4855,0.4855,na
+nikeskims matte||apparel||women's twist-front bra||nskm dark sepia/nskm dark sepia/nskm dark sepia||women,US,54.0,,81.7035,81.7035,,-27.7035,-27.7035,,raise_price,raise_price,,0.5159,0.5159,na
+nike ld-1000 'edition a' sesame||footwear||women's shoes||coconut milk/gum light brown/sail||women,US,140.0,,110.5497,110.5497,,29.4503,29.4503,,lower_price,lower_price,,0.4853,0.4853,na
+jordan flight||apparel||women's quilted renegade jacket||enigma stone/olive grey/enigma stone||women,FI,217.9891,201.2885,,201.2885,16.7006,,16.7006,lower_price,,lower_price,0.7544,,0.7544,na
+nike 24.7 perfectstretch||apparel||women's dri-fit loose-fit cropped jacket||midnight navy/black/dark obsidian||women,US,190.0,165.6932,,165.6932,24.3068,,24.3068,lower_price,,lower_price,0.4969,,0.4969,na
+nike zoom gp challenge 1.5 prm||footwear||women's hard court tennis shoes||black/light lemon twist/white||women,US,180.0,168.761,,168.761,11.239,,11.239,lower_price,,lower_price,0.9969,,0.9969,na
+jordan brooklyn||apparel||men's realtree hockey jersey||medium olive/sail/sail||men,FI,119.8891,114.3864,91.7669,103.0767,5.5027,28.1222,16.8124,lower_price,lower_price,lower_price,0.7233,0.5085,0.6159,true
+nike zoom gp challenge 1.5 prm||footwear||men's hard court tennis shoes||saffron quartz/olive flak/sail/black||men,US,180.0,169.0985,,169.0985,10.9015,,10.9015,lower_price,,lower_price,0.9429,,0.9429,na
+nike victory||apparel||women's dri-fit long-sleeve polo||black/white||women,US,65.0,54.8707,,54.8707,10.1293,,10.1293,lower_price,,lower_price,0.9985,,0.9985,na
+nike sportswear||apparel||women's oversized windrunner jacket||black/black/black||women,US,125.0,114.9672,,114.9672,10.0328,,10.0328,lower_price,,lower_price,0.963,,0.963,na
+nike vapor 12||footwear||men's clay court tennis shoes||university blue/hydrogen blue/hot lava/midnight navy||men,US,180.0,169.3795,,169.3795,10.6205,,10.6205,lower_price,,lower_price,0.8928,,0.8928,na
+nike vapor 12||footwear||women's hard court tennis shoes||black/light lemon twist/blue ribbon heather/white||women,US,190.0,180.6111,,180.6111,9.3889,,9.3889,lower_price,,lower_price,0.993,,0.993,na
+nike sportswear||apparel||women's cardigan||black/sail/vast grey/sail||women,US,115.0,104.0267,,104.0267,10.9733,,10.9733,lower_price,,lower_price,0.8256,,0.8256,na
+nike alphafly 3 glam||footwear||women's road racing shoes||orange pulse/purple dynasty/electric green/black||women,FI,348.7891,337.55,,337.55,11.2391,,11.2391,lower_price,,lower_price,0.7433,,0.7433,na
+nike tour repel||apparel||women's golf jacket||black/white||women,US,135.0,126.6184,,126.6184,8.3816,,8.3816,lower_price,,lower_price,0.9904,,0.9904,na
+tatum hoop fleece||apparel||men's dri-fit pullover hoodie||smoke grey/black/smoke grey||men,FI,108.9891,98.0453,,98.0453,10.9438,,10.9438,lower_price,,lower_price,0.678,,0.678,na
+nikecourt court collection||apparel||women's dri-fit cropped tennis polo||sail/midnight navy||women,US,80.0,72.4177,,72.4177,7.5823,,7.5823,lower_price,,lower_price,0.9585,,0.9585,na
+jordan sport||apparel||men's golf button-down||sail||men,FI,163.4891,152.9829,,152.9829,10.5062,,10.5062,lower_price,,lower_price,0.6863,,0.6863,na
+nike tempo||apparel||women's dri-fit running tank top||black||women,US,37.0,28.8697,,28.8697,8.1303,,8.1303,lower_price,,lower_price,0.886,,0.886,na
+nike sportswear||apparel||women's oversized jersey tunic||fir/chalk/chalk||women,US,70.0,61.5324,,61.5324,8.4676,,8.4676,lower_price,,lower_price,0.8364,,0.8364,na
+nike sportswear phoenix fleece||apparel||women's oversized full-zip hoodie||dark grey heather/sail||women,US,80.0,72.1973,,72.1973,7.8027,,7.8027,lower_price,,lower_price,0.9069,,0.9069,na
+nike sportswear||apparel||women's tight ribbed short-sleeve t-shirt||tattoo||women,US,37.0,27.8914,65.6119,46.7517,9.1086,-28.6119,-9.7517,lower_price,raise_price,raise_price,0.8985,0.5,0.6992,false
+nike fairway fresh||apparel||men's dri-fit golf shorts||anthracite/black/black||men,US,115.0,103.7033,,103.7033,11.2967,,11.2967,lower_price,,lower_price,0.5938,,0.5938,na
+nike golf club||apparel||women's unlined dri-fit golf dress||black/sail||women,US,105.0,93.9539,,93.9539,11.0461,,11.0461,lower_price,,lower_price,0.5984,,0.5984,na
+nike golf club||apparel||women's dri-fit golf joggers||black/sail||women,US,135.0,122.0889,,122.0889,12.9111,,12.9111,lower_price,,lower_price,0.5036,,0.5036,na
+nikecourt lite 4||footwear||women's tennis shoes||black/anthracite/white||women,US,85.0,78.38,,78.38,6.62,,6.62,lower_price,,lower_price,0.9708,,0.9708,na
+nike therma-fit victory||apparel||women's long-sleeve 1/2-zip golf top||white/photon dust/white||women,US,85.0,78.3271,,78.3271,6.6729,,6.6729,lower_price,,lower_price,0.9557,,0.9557,na
+jordan flight||apparel||men's long-sleeve polo jersey||black/university red/university red||men,US,125.0,114.653,,114.653,10.347,,10.347,lower_price,,lower_price,0.6155,,0.6155,na
+nike one||apparel||women's therma-fit high-waisted full-length leggings||black/white||women,US,65.0,56.3589,,56.3589,8.6411,,8.6411,lower_price,,lower_price,0.7074,,0.7074,na
+nikeskims matte||apparel||women's high-waisted footsie grip leggings||nskm obsidian||women,FI,158.0391,149.5622,,149.5622,8.4769,,8.4769,lower_price,,lower_price,0.7178,,0.7178,na
+nike motiva gore-tex||footwear||women's waterproof walking shoes||black/anthracite/black||women,US,145.0,137.7324,,137.7324,7.2676,,7.2676,lower_price,,lower_price,0.8368,,0.8368,na
+nike sportswear||apparel||t-shirt||black||men|women,US,55.0,44.0081,,44.0081,10.9919,,10.9919,lower_price,,lower_price,0.5512,,0.5512,na
+nikecourt advantage||apparel||women's dri-fit high-waisted tennis skirt||light lemon twist/black||women,US,85.0,78.6477,,78.6477,6.3523,,6.3523,lower_price,,lower_price,0.948,,0.948,na
+nikeskims matte||apparel||women's v-panel stirrup leggings||nskm himalayan||women,FI,158.0391,149.8559,,149.8559,8.1832,,8.1832,lower_price,,lower_price,0.7276,,0.7276,na
+jordan sport||apparel||women's dri-fit printed top||black/black||women,US,55.0,45.3607,,45.3607,9.6393,,9.6393,lower_price,,lower_price,0.6171,,0.6171,na
+nike vapor 12 hypersmash||footwear||men's hard court tennis shoes||hyper pink/dusty cactus/black||men,FI,196.1891,201.6713,167.6645,184.6679,-5.4822,28.5246,11.5212,raise_price,lower_price,lower_price,0.5303,0.5015,0.5159,false
+nike sportswear rpm||equipment||backpack (26l)||black/black/white||men|women,US,107.0,100.4559,,100.4559,6.5441,,6.5441,lower_price,,lower_price,0.8909,,0.8909,na
+ジョーダン スポーツ||apparel||メンズ ゴルフパンツ||オリーブグレー/オリーブグレー||men,JP,175.406,166.6391,,166.6391,8.7669,,8.7669,lower_price,,lower_price,0.6601,,0.6601,na
+nike par||apparel||men's dri-fit golf polo||barely green||men,US,100.0,90.3802,,90.3802,9.6198,,9.6198,lower_price,,lower_price,0.5943,,0.5943,na
+nike air monarch se||footwear||men's workout shoes||wheat/gum medium brown/black/wheat||men,US,105.0,94.4484,,94.4484,10.5516,,10.5516,lower_price,,lower_price,0.5268,,0.5268,na
+nike air max torch 4||footwear||men's shoes||anthracite/black/metallic silver||men,FI,130.7891,123.5462,,123.5462,7.2429,,7.2429,lower_price,,lower_price,0.7648,,0.7648,na
+nikeskims woven nylon||apparel||women's wrap coat||nskm phoenix||women,FI,217.9891,210.8464,,210.8464,7.1427,,7.1427,lower_price,,lower_price,0.7618,,0.7618,na
+nikecourt||apparel||women's dri-fit tennis shorts with pockets||black/white||women,US,55.0,45.6346,,45.6346,9.3654,,9.3654,lower_price,,lower_price,0.5711,,0.5711,na
+nike tailored performance||apparel||men's dri-fit golf polo||white/white||men,US,130.0,120.6344,,120.6344,9.3656,,9.3656,lower_price,,lower_price,0.5542,,0.5542,na
+nike life||apparel||men's short-sleeve boxy knit top||phantom||men,FI,65.3891,57.7488,,57.7488,7.6403,,7.6403,lower_price,,lower_price,0.6733,,0.6733,na
+nike universa||apparel||women's high-waisted printed 7/8 leggings with no front seam||sweet beet/deep garnet/rush maroon||women,FI,125.3391,131.9573,97.4008,114.6791,-6.6182,27.9383,10.66,raise_price,lower_price,lower_price,0.4465,0.5117,0.4791,false
+nike tailored performance||apparel||men's dri-fit golf polo||work blue/work blue||men,US,140.0,131.269,,131.269,8.731,,8.731,lower_price,,lower_price,0.5659,,0.5659,na
+aaron judge new york yankees||apparel||men's nike dri-fit adv mlb elite jersey||navy||men,US,395.0,386.9512,,386.9512,8.0488,,8.0488,lower_price,,lower_price,0.5976,,0.5976,na
+nike mavn||apparel||girls' storm-fit adv rain jacket||black/black||girls,US,150.0,140.8479,,140.8479,9.1521,,9.1521,lower_price,,lower_price,0.5236,,0.5236,na
+"nike utility power 2.0||equipment||duffel bag (medium, 51l)||black/black/white||men|women",US,80.0,73.5457,,73.5457,6.4543,,6.4543,lower_price,,lower_price,0.7393,,0.7393,na
+nike v2k run||footwear||women's shoes with reflective accents||summit white/pure platinum/light iron ore/metallic silver||women,FI,141.6891,148.2939,,148.2939,-6.6048,,-6.6048,raise_price,,raise_price,0.7165,,0.7165,na
+nike air max 90 premium||footwear||women's shoes||white/metallic gold/white||women,FI,174.3891,168.512,,168.512,5.8771,,5.8771,lower_price,,lower_price,0.8,,0.8,na
+nikecourt advantage||apparel||men's dri-fit tennis top||black/white||men,US,90.0,82.2817,,82.2817,7.7183,,7.7183,lower_price,,lower_price,0.5972,,0.5972,na
+nike||apparel||men's basketball t-shirt||black||men,US,55.0,47.988,,47.988,7.012,,7.012,lower_price,,lower_price,0.6494,,0.6494,na
+nike golf club||apparel||women's dri-fit flouncy golf skirt||sail/black||women,US,90.0,78.5161,,78.5161,11.4839,,11.4839,lower_price,,lower_price,0.3902,,0.3902,na
+nike solo swoosh||apparel||men's full-zip fleece hoodie||dark grey heather/light smoke grey/white||men,FI,119.8891,113.1634,,113.1634,6.7257,,6.7257,lower_price,,lower_price,0.6618,,0.6618,na
+nike rejuven8 run||footwear||women's shoes||black/rust factor/muslin||women,FI,163.4891,157.9843,,157.9843,5.5048,,5.5048,lower_price,,lower_price,0.8068,,0.8068,na
+nike||apparel||men's basketball t-shirt||black||men,FI,54.4891,47.8737,,47.8737,6.6154,,6.6154,lower_price,,lower_price,0.6606,,0.6606,na
+nike metcon 10||footwear||men's workout shoes||black/anthracite/white||men,US,155.0,149.5014,,149.5014,5.4986,,5.4986,lower_price,,lower_price,0.7808,,0.7808,na
+team 31 club||apparel||men's nike nba pullover hoodie||black||men,US,100.0,93.2241,,93.2241,6.7759,,6.7759,lower_price,,lower_price,0.6289,,0.6289,na
+nike air max moto 2k||footwear||women's shoes with reflective accents||white/metallic silver/black/photon dust||women,FI,141.6891,151.9785,,151.9785,-10.2894,,-10.2894,raise_price,,raise_price,0.394,,0.394,na
+nike sportswear tech fleece||apparel||women's mid-rise joggers (plus size)||black/black||women,US,125.0,116.4067,,116.4067,8.5933,,8.5933,lower_price,,lower_price,0.4633,,0.4633,na
+nike pro||apparel||dri-fit unstructured swoosh run cap||college grey/anthracite||men|women,US,47.0,41.2606,,41.2606,5.7394,,5.7394,lower_price,,lower_price,0.6827,,0.6827,na
+nikeskims weightless layers||apparel||women's high-waisted v-panel leggings||nskm himalayan||women,FI,103.5391,98.1428,,98.1428,5.3963,,5.3963,lower_price,,lower_price,0.7238,,0.7238,na
+jordan flight||apparel||men's graphic fleece 1/4-zip||squadron blue/sail||men,US,125.0,118.3513,,118.3513,6.6487,,6.6487,lower_price,,lower_price,0.5847,,0.5847,na
+jordan brooklyn fleece||apparel||toddler 2-piece pullover hoodie set||squadron blue||boys|girls,US,70.0,62.16,,62.16,7.84,,7.84,lower_price,,lower_price,0.4945,,0.4945,na
+kobe||apparel||men's dri-fit basketball t-shirt||black||men,US,60.0,53.8293,,53.8293,6.1707,,6.1707,lower_price,,lower_price,0.624,,0.624,na
+nike sportswear||equipment||rpm tote (26l)||black/black/white||men|women,US,95.0,88.4094,,88.4094,6.5906,,6.5906,lower_price,,lower_price,0.5582,,0.5582,na
+jordan anthem||apparel||women's jacket||old royal/black||women,FI,130.7891,136.2104,,136.2104,-5.4213,,-5.4213,raise_price,,raise_price,0.6656,,0.6656,na
+nike sportswear||apparel||t-shirt||light crimson||men|women,US,47.0,39.86,,39.86,7.14,,7.14,lower_price,,lower_price,0.5011,,0.5011,na
+nikeskims matte||apparel||women's micro-scoop bra||nskm obsidian||women,FI,65.3891,60.3693,,60.3693,5.0198,,5.0198,lower_price,,lower_price,0.7113,,0.7113,na
+nike brasilia jdi||equipment||mini backpack (11l)||clear/light bone/white||boys|girls,US,45.0,39.2036,,39.2036,5.7964,,5.7964,lower_price,,lower_price,0.6142,,0.6142,na
+nike sportswear||apparel||women's oversized top||light bone/linen/sail||women,US,75.0,65.3343,,65.3343,9.6657,,9.6657,lower_price,,lower_price,0.3582,,0.3582,na
+nike sb zoom blazer mid||footwear||skate shoes||black/black/black/white||men|women,FI,103.5391,109.3434,,109.3434,-5.8043,,-5.8043,raise_price,,raise_price,0.5953,,0.5953,na
+ja||apparel||men's nike therma-fit pullover basketball hoodie||black||men,US,210.0,202.8448,,202.8448,7.1552,,7.1552,lower_price,,lower_price,0.4819,,0.4819,na
+nike||apparel||women's short-sleeve golf polo||sail/black||women,US,85.0,76.7168,,76.7168,8.2832,,8.2832,lower_price,,lower_price,0.4151,,0.4151,na
+"giannis freak 7 ""fearless""||footwear||basketball shoes||black/laser orange/volt/bright crimson||men|women",FI,125.3391,130.4758,,130.4758,-5.1367,,-5.1367,raise_price,,raise_price,0.6681,,0.6681,na
+nike sportswear||apparel||men's max90 t-shirt||white||men,US,50.0,44.0339,,44.0339,5.9661,,5.9661,lower_price,,lower_price,0.5751,,0.5751,na
+nike victory||apparel||women's dri-fit high-waisted tennis skirt||white/black||women,US,80.0,70.7211,,70.7211,9.2789,,9.2789,lower_price,,lower_price,0.3649,,0.3649,na
+nike rejuven8 run sp||footwear||women's shoes||black/sail/black||women,FI,141.6891,148.2338,,148.2338,-6.5447,,-6.5447,raise_price,,raise_price,0.5055,,0.5055,na
+nike reax 8 tr||footwear||women's workout shoes||white/pure platinum/white||women,FI,103.5391,108.8844,,108.8844,-5.3453,,-5.3453,raise_price,,raise_price,0.615,,0.615,na
+nike air max '95 g||footwear||golf shoes||peony/volt tint/dusty cactus/anthracite||men|women,FI,217.9891,223.5617,,223.5617,-5.5726,,-5.5726,raise_price,,raise_price,0.5891,,0.5891,na
+nike pegasus easyon||footwear||men's road running shoes||black/anthracite/photon dust/white||men,FI,152.5891,158.3671,,158.3671,-5.778,,-5.778,raise_price,,raise_price,0.5677,,0.5677,na
+nike mind 002||footwear||men's shoes||light smoke grey/photon dust/hyper crimson/chrome||men,FI,152.5891,158.3651,,158.3651,-5.776,,-5.776,raise_price,,raise_price,0.5678,,0.5678,na
+air jordan 1 triple stack||footwear||women's shoes||psychic blue/white/sail/psychic blue||women,FI,152.5891,158.3286,,158.3286,-5.7395,,-5.7395,raise_price,,raise_price,0.5694,,0.5694,na
+nike dri-fit adv fly||apparel||unstructured aerobill aeroadapt cap||black/anthracite/black||men|women,US,47.0,41.5508,,41.5508,5.4492,,5.4492,lower_price,,lower_price,0.5976,,0.5976,na
+nike sportswear classics||apparel||women's high-waisted graphic leggings||black/white||women,US,57.0,49.0483,,49.0483,7.9517,,7.9517,lower_price,,lower_price,0.4071,,0.4071,na
+nike heritage||apparel||women's short-sleeve tennis t-shirt||sail/midnight navy||women,US,42.0,36.0426,,36.0426,5.9574,,5.9574,lower_price,,lower_price,0.543,,0.543,na
+nike zoom fly 6 glam||footwear||women's road racing shoes||dark obsidian/racer blue/emerald rise/black||women,FI,196.1891,202.9332,,202.9332,-6.7441,,-6.7441,raise_price,,raise_price,0.4785,,0.4785,na
+nike zoom vomero roam||footwear||women's winterized shoes||black/black/racer blue/black||women,FI,196.1891,202.8465,,202.8465,-6.6574,,-6.6574,raise_price,,raise_price,0.4818,,0.4818,na
+nike pegasus 42||footwear||women's road running shoes||chalk/orange pulse/bright violet/tattoo||women,FI,152.5891,158.1413,,158.1413,-5.5522,,-5.5522,raise_price,,raise_price,0.5775,,0.5775,na
+nike par||apparel||men's therma-fit golf crew-neck top||college navy/white/black||men,US,100.0,93.6587,,93.6587,6.3413,,6.3413,lower_price,,lower_price,0.505,,0.505,na
+jordan brooklyn||apparel||women's full-zip track jacket||team red/sail||women,FI,98.0891,103.1477,,103.1477,-5.0586,,-5.0586,raise_price,,raise_price,0.6152,,0.6152,na
+nike uplift sc||footwear||women's shoes||black/wolf grey/black/white||women,FI,76.2891,82.3363,,82.3363,-6.0472,,-6.0472,raise_price,,raise_price,0.5098,,0.5098,na
+jordan brooklyn fleece||apparel||women's full-zip hoodie||malachite/white||women,FI,81.7391,87.3845,,87.3845,-5.6454,,-5.6454,raise_price,,raise_price,0.5442,,0.5442,na
+jordan pointe||footwear||women's shoes||black/sail||women,FI,130.7891,137.1701,,137.1701,-6.381,,-6.381,raise_price,,raise_price,0.4757,,0.4757,na
+nike zoom fly 6||footwear||men's road racing shoes||black/light smoke grey/white||men,FI,185.2891,191.9615,,191.9615,-6.6724,,-6.6724,raise_price,,raise_price,0.4422,,0.4422,na
+nike air max dn roam||footwear||men's shoes||clay green/sky j light olive/black/fire pink||men,FI,196.1891,201.8161,,201.8161,-5.627,,-5.627,raise_price,,raise_price,0.5238,,0.5238,na
+tatum 4||footwear||baby/toddler shoes||white/black/university red||boys|girls,FI,59.9391,66.8938,,66.8938,-6.9547,,-6.9547,raise_price,,raise_price,0.4153,,0.4153,na
+nike swift||apparel||women's high-waisted 7/8 printed running leggings||world indigo||women,US,100.0,94.3232,,94.3232,5.6768,,5.6768,lower_price,,lower_price,0.5074,,0.5074,na
+nike shox tl||footwear||men's shoes||black/metallic hematite/max orange/black||men,FI,185.2891,191.5895,,191.5895,-6.3004,,-6.3004,raise_price,,raise_price,0.4564,,0.4564,na
+nike acg apex||apparel||bucket hat||black/black/black||men|women,US,55.0,49.2336,,49.2336,5.7664,,5.7664,lower_price,,lower_price,0.4947,,0.4947,na
+nike sportswear||apparel||women's oversized short-sleeve t-shirt||sail||women,US,55.0,48.8784,,48.8784,6.1216,,6.1216,lower_price,,lower_price,0.4635,,0.4635,na
+nike sb||apparel||skate t-shirt||black||men|women,US,55.0,49.8221,,49.8221,5.1779,,5.1779,lower_price,,lower_price,0.5462,,0.5462,na
+chicago bulls essential city edition||apparel||men's nike nba max90 t-shirt||white||men,US,55.0,49.8416,,49.8416,5.1584,,5.1584,lower_price,,lower_price,0.5479,,0.5479,na
+jordan flight fleece||apparel||women's rugby top||black/sail/black||women,US,100.0,94.0763,,94.0763,5.9237,,5.9237,lower_price,,lower_price,0.4762,,0.4762,na
+nike one||apparel||women's dri-fit tank top||black/white||women,US,50.0,42.7336,,42.7336,7.2664,,7.2664,lower_price,,lower_price,0.3874,,0.3874,na
+nike pro seamless||apparel||women's dri-fit cropped tank top||black||women,US,55.0,48.5683,,48.5683,6.4317,,6.4317,lower_price,,lower_price,0.4364,,0.4364,na
+nike zenvy||apparel||women's high-waisted capri leggings||black/cool grey||women,US,100.0,94.0041,,94.0041,5.9959,,5.9959,lower_price,,lower_price,0.4678,,0.4678,na
+jordan sport flightweight||apparel||women's long-sleeve top||black/dark shadow||women,FI,65.3891,70.5728,,70.5728,-5.1837,,-5.1837,raise_price,,raise_price,0.5097,,0.5097,na
+nike one classic||apparel||women's dri-fit long-sleeve top||white/black||women,US,55.0,47.4694,,47.4694,7.5306,,7.5306,lower_price,,lower_price,0.34,,0.34,na
+nike 24.7 impossiblysoft||apparel||women's dri-fit mid-rise joggers||midnight navy/dark obsidian||women,FI,103.5391,110.4905,,110.4905,-6.9514,,-6.9514,raise_price,,raise_price,0.3374,,0.3374,na
+nike sportswear airreverent||apparel||women's long-sleeve top||black||women,FI,108.9891,114.6436,,114.6436,-5.6545,,-5.6545,raise_price,,raise_price,0.4137,,0.4137,na
+jordan flight||apparel||men's gore-tex mountainside jacket||pure platinum/black||men,US,500.0,494.3712,,494.3712,5.6288,,5.6288,lower_price,,lower_price,0.4082,,0.4082,na
+nike acg||apparel||men's trail running jacket||college grey/black/mean green/summit white||men,US,140.0,134.7768,,134.7768,5.2232,,5.2232,lower_price,,lower_price,0.4329,,0.4329,na
+chicago bulls city edition||apparel||women's nike nba phoenix fleece premium hoodie||black||women,US,95.0,85.3912,,85.3912,9.6088,,9.6088,lower_price,,lower_price,0.2302,,0.2302,na
+jordan||apparel||women's sleeveless tank||old royal/yellow pulse||women,FI,43.5891,49.2977,,49.2977,-5.7086,,-5.7086,raise_price,,raise_price,0.386,,0.386,na
+nikecourt court collection||apparel||women's dri-fit high-waisted tennis shorts||sail||women,FI,103.5391,109.2327,,109.2327,-5.6936,,-5.6936,raise_price,,raise_price,0.3833,,0.3833,na
+nike sportswear||apparel||women's full-zip long-sleeve hooded top||team crimson||women,US,85.0,74.4926,,74.4926,10.5074,,10.5074,lower_price,,lower_price,0.2062,,0.2062,na
+nike||apparel||women's short-sleeve basketball t-shirt||black||women,US,47.0,41.7614,,41.7614,5.2386,,5.2386,lower_price,,lower_price,0.4088,,0.4088,na
+nike 24.7 impossiblysoft||apparel||women's dri-fit oversized crew-neck top||black/dark smoke grey||women,FI,98.0891,104.3086,,104.3086,-6.2195,,-6.2195,raise_price,,raise_price,0.3319,,0.3319,na
+jordan sport essentials||apparel||women's dri-fit sleeveless top||white/black||women,FI,38.1391,43.8346,,43.8346,-5.6955,,-5.6955,raise_price,,raise_price,0.3553,,0.3553,na
+nike one classic||apparel||women's dri-fit short-sleeve top||white/black||women,US,47.0,41.0803,,41.0803,5.9197,,5.9197,lower_price,,lower_price,0.3319,,0.3319,na
+nike sportswear||apparel||women's full-zip jacket||pale ivory/sail||women,FI,152.5891,160.6959,,160.6959,-8.1068,,-8.1068,raise_price,,raise_price,0.2421,,0.2421,na
+nike one classic twist||apparel||women's dri-fit short-sleeve top||light magenta/white||women,US,47.0,41.0374,,41.0374,5.9626,,5.9626,lower_price,,lower_price,0.3271,,0.3271,na
+nike swift||apparel||women's high-support lightly lined sports bra||black/silver||women,US,75.0,69.3978,,69.3978,5.6022,,5.6022,lower_price,,lower_price,0.3464,,0.3464,na
+nike reax 8 tr||footwear||men's workout shoes||black/white||men,FI,98.0891,103.2756,,103.2756,-5.1865,,-5.1865,raise_price,,raise_price,0.3733,,0.3733,na
+nike sportswear tech fleece windrunner||apparel||women's full-zip hoodie (plus size)||black/black||women,US,140.0,133.5441,,133.5441,6.4559,,6.4559,lower_price,,lower_price,0.2991,,0.2991,na
+nike sportswear classic||apparel||women's high-waisted 7/8 leggings (plus size)||black/sail||women,US,50.0,42.0377,,42.0377,7.9623,,7.9623,lower_price,,lower_price,0.242,,0.242,na
+nikecourt slam||apparel||women's dri-fit high-waisted tennis skirt||mean green/light lemon twist/black||women,FI,92.6391,99.7575,,99.7575,-7.1184,,-7.1184,raise_price,,raise_price,0.2705,,0.2705,na
+nike form||apparel||women's boyshorts||black/smoke grey/dark smoke grey||women,US,45.0,39.5266,,39.5266,5.4734,,5.4734,lower_price,,lower_price,0.3473,,0.3473,na
+jordan hydro vi retro||footwear||slides||black/infrared 23||men,US,70.0,63.9637,,63.9637,6.0363,,6.0363,lower_price,,lower_price,0.3091,,0.3091,na
+nike sportswear phoenix fleece||apparel||women's oversized printed crew-neck sweatshirt||black/ironstone/black||women,US,80.0,73.4476,,73.4476,6.5524,,6.5524,lower_price,,lower_price,0.2847,,0.2847,na
+nike sportswear phoenix fleece||apparel||women's over-oversized pullover hoodie||tattoo/sail||women,US,80.0,73.3077,,73.3077,6.6923,,6.6923,lower_price,,lower_price,0.2695,,0.2695,na
+nike court vision low||footwear||women's shoes||shimmer/tattoo/sail||women,FI,87.1891,95.2247,,95.2247,-8.0356,,-8.0356,raise_price,,raise_price,0.2141,,0.2141,na
+nikecourt slam||apparel||women's dri-fit tennis dress||sapphire/light thistle/black/white||women,FI,147.1391,155.284,,155.284,-8.1449,,-8.1449,raise_price,,raise_price,0.208,,0.208,na
+nike court vision low||footwear||men's shoes||black/white||men,FI,87.1891,93.8336,,93.8336,-6.6445,,-6.6445,raise_price,,raise_price,0.2478,,0.2478,na
+nike pro||apparel||women's dri-fit tank top||black/white||women,FI,49.0391,55.3005,,55.3005,-6.2614,,-6.2614,raise_price,,raise_price,0.2457,,0.2457,na
+jordan brooklyn fleece||apparel||women's realtree crew-neck sweatshirt||hemp/sail||women,US,72.0,66.7377,,66.7377,5.2623,,5.2623,lower_price,,lower_price,0.2831,,0.2831,na
+chuck taylor all star canvas||footwear||shoes||white||men,US,65.0,58.9537,,58.9537,6.0463,,6.0463,lower_price,,lower_price,0.2093,,0.2093,na
+nike sportswear||apparel||women's trousers||black/black||women,US,110.0,103.9779,,103.9779,6.0221,,6.0221,lower_price,,lower_price,0.2017,,0.2017,na
+nike reactx rejuven8||footwear||women's shoes||black/black/black||women,FI,76.2891,84.0203,,84.0203,-7.7312,,-7.7312,raise_price,,raise_price,0.1429,,0.1429,na
+jordan flight||apparel||women's graphic dress||sail/black||women,FI,76.2891,83.6211,,83.6211,-7.332,,-7.332,raise_price,,raise_price,0.1495,,0.1495,na
+nikecourt ace advantage||apparel||women's dri-fit tennis shorts||white/white||women,FI,76.2891,83.5634,,83.5634,-7.2743,,-7.2743,raise_price,,raise_price,0.1505,,0.1505,na
+team 13 courtside||apparel||women's nike wnba cropped pullover hoodie||black/brilliant orange/brilliant orange||women,FI,76.2891,83.5224,,83.5224,-7.2333,,-7.2333,raise_price,,raise_price,0.1513,,0.1513,na
+nike reactx rejuven8||footwear||men's shoes||black/black/black||men,FI,76.2891,82.758,,82.758,-6.4689,,-6.4689,raise_price,,raise_price,0.1662,,0.1662,na
+nike sportswear||apparel||t-shirt||khaki||men|women,US,50.0,44.7793,,44.7793,5.2207,,5.2207,lower_price,,lower_price,0.1857,,0.1857,na
+nike||apparel||women's dri-fit long-sleeve warm-up basketball top||black/white||women,FI,70.8391,78.6622,,78.6622,-7.8231,,-7.8231,raise_price,,raise_price,0.0969,,0.0969,na
+nike pro||apparel||women's dri-fit loose crew-neck french terry sweatshirt||rush pink/pink foam/white||women,FI,70.8391,78.5594,,78.5594,-7.7203,,-7.7203,raise_price,,raise_price,0.098,,0.098,na
+jordan flight||apparel||women's long-sleeve top||black/sail||women,FI,70.8391,78.3831,,78.3831,-7.544,,-7.544,raise_price,,raise_price,0.1001,,0.1001,na
+nike||equipment||kids' backpack||doll/university red/white||boys|girls,US,50.0,44.4581,,44.4581,5.5419,,5.5419,lower_price,,lower_price,0.1355,,0.1355,na
+jordan sport flightweight||apparel||women's dri-fit short-sleeve top||black/dark shadow/dark shadow||women,US,55.0,49.714,,49.714,5.286,,5.286,lower_price,,lower_price,0.107,,0.107,na
+nike reactx rejuven8||footwear||women's slides||black/black/black||women,FI,65.3891,73.6825,,73.6825,-8.2934,,-8.2934,raise_price,,raise_price,0.0448,,0.0448,na
+nikecourt advantage||apparel||women's dri-fit short-sleeve tennis top||white/white||women,FI,65.3891,73.2088,,73.2088,-7.8197,,-7.8197,raise_price,,raise_price,0.0474,,0.0474,na
+nike zenvy||apparel||women's dri-fit short-sleeve top||black/cool grey||women,FI,65.3891,72.423,,72.423,-7.0339,,-7.0339,raise_price,,raise_price,0.0524,,0.0524,na
+chuck taylor all star lift platform canvas||footwear||women's shoes||black||women,US,80.0,74.7288,,74.7288,5.2712,,5.2712,lower_price,,lower_price,0.0542,,0.0542,na
+chuck taylor all star lift platform canvas||footwear||women's shoes||white||women,US,80.0,74.7291,,74.7291,5.2709,,5.2709,lower_price,,lower_price,0.0542,,0.0542,na
+nike vomero plus||footwear||men's road running shoes||black/anthracite/black||men,US,180.0,174.0067,,174.0067,5.9933,,5.9933,lower_price,,lower_price,0.0276,,0.0276,na
+jordan everyday||equipment||cushioned crew socks (6 pairs)||black/white||men|women,US,36.0,30.9872,,30.9872,5.0128,,5.0128,lower_price,,lower_price,0.0082,,0.0082,na

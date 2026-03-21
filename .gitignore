@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local datasets and generated outputs
+nike.csv
+artifacts/
+
+# OS/editor noise
+.DS_Store
